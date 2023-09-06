@@ -96,5 +96,6 @@
 
 ## 鸣谢
 
-这个课程的文档,部分来自[ginny100](https://github.com/ginny100/Meta-Front-End-Developer)
-
+这个课程的文档,部分来自
+- [ginny100](https://github.com/ginny100/Meta-Front-End-Developer)
+- [Shah Fahad](https://github.com/ShahandFahad/Meta-Front-End-Developer/tree/main)
