@@ -4,92 +4,49 @@
 
 - This repo contains all of my assignments, demos, and cheat sheets from the 9 courses in the Coursera Professional Certificate: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
-## Table of Content
+## 学习大纲
 
-<details>
-<summary><b>Course 1: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Front-End%20Development"><b>Introduction to Front-End Development</b></a></summary>
+- basic - 45h
+	- [x] Course 1: [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer)
+  	  - 15h
+	- [ ] Course 2: [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth?specialization=meta-front-end-developer)
+  	  - 21h
+	- [x] Course 3: [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer)
+	  - 9h
+	  - 2023w35
+- REACT - 74h
+	- [x] Course 4: [Programming with JavaScript](https://www.coursera.org/learn/programming-with-javascript?specialization=meta-front-end-developer)
+	  - 42h
+	  - 2023w35
+	- [ ] Course 5: [React Basics](https://www.coursera.org/learn/react-basics?specialization=meta-front-end-developer)
+	  - [ ] 16h
+	- [ ] Course 6: [Advanced React](https://www.coursera.org/learn/advanced-react?specialization=meta-front-end-developer)
+  	 - 16h
+ - WORK - 57h
+	- [ ] Course 7: [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-front-end-developer) - 19h
+	- [ ] Course 8: [Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone?specialization=meta-front-end-developer) - 27h
+	- [ ] Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-front-end-developer) - 11h
 
-  * Week 1: [Get started with web development](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Front-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development)
-  * Week 2: [Introduction to HTML and CSS](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Front-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS)
-  * Week 3: [UI Frameworks](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Front-End%20Development/Week%203%20-%20UI%20Frameworks)
-  * Week 4: [End-of-Course Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Front-End%20Development/Week%204%20-%20End-of-Course%20Graded%20Assessment)
-</details>
+## 进度
 
-<details>
-<summary><b>Course 2: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript"><b>Programming with JavaScript</b></a></summary>
+| 时间        | 官方估计 | 新完成 | 总占比 |
+| ----------- | -------- | ------ | ---- |
+| 8月-2023w34 | 186h     | 15h    | 19%  |
+| 9月-2023w35 |          | 42h       |  30%    |
+| 2023w36     |          | 9h       |  35%    |
+| 2023w37     |          |        |      |
+| 2023w38     |          |        |      |
+| 2023w39            |          |        |      |
 
-  * Week 1: [Introduction to Javascript](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%201%20-%20Introduction%20to%20Javascript)
-  * Week 2: [The Building Blocks of a Program](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%202%20-%20The%20Building%20Blocks%20of%20a%20Program)
-  * Week 3: [Programming Paradigms](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%203%20-%20Programming%20Paradigms)
-  * Week 4: [Testing](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%204%20-%20Testing)
-  * Week 5: [End-of-Course Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%202%20-%20Programming%20with%20JavaScript/Week%205%20-%20End-of-Course%20Graded%20Assessment)
-</details>
 
-<details>
-<summary><b>Course 3: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control"><b>Version Control</b></a></summary>
 
-  * Week 1: [Software collaboration](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%201%20-%20Software%20collaboration)
-  * Week 2: [Command Line](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%202%20-%20Command%20Line)
-  * Week 3: [Working with Git](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
-  * Week 4: [Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%203%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
-</details>
+官方计算
+- 7个月
+- 每周6小时 = 168小时
 
-<details>
-<summary><b>Course 4: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth"><b>HTML and CSS in depth</b></a></summary>
-
-  * Week 1: [HTML in depth](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%201%20-%20HTML%20in%20depth)
-  * Week 2: [Interactive CSS](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%202%20-%20Interactive%20CSS)
-  * Week 3: [Graded Assessment](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%204%20-%20HTML%20and%20CSS%20in%20depth/Week%203%20-%20Graded%20Assessment)
-</details>
-
-<details>
-<summary><b>Course 5: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics"><b>React Basics</b></a></summary>
-
-  * Week 1: [React Components](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%201%20-%20React%20Components)
-  * Week 2: [Data and State](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%202%20-%20Data%20and%20State)
-  * Week 3: [Navigation, Updating and Assets in React.js](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%203%20-%20Navigation%2C%20Updating%20and%20Assets%20in%20React.js)
-  * Week 4: [Your first React app](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%205%20-%20React%20Basics/Week%204%20-%20Your%20first%20React%20app)
-</details>
-
-<details>
-<summary><b>Course 6: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React"><b>Advanced React</b></a></summary>
-
-  * Week 1: [Components](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%201%20-%20Components)
-  * Week 2: [React Hooks and Custom Hooks](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%202%20-%20React%20Hooks%20and%20Custom%20Hooks)
-  * Week 3: [JSX and testing](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%203%20-%20JSX%20and%20testing)
-  * Week 4: [Final project](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%206%20-%20Advanced%20React/Week%204%20-%20Final%20project)
-</details>
-
-<details>
-<summary><b>Course 7: </b><a href="https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design"><b>Principles of UI/UX Design</b></a></summary>
-
-  * Week 1: [Introduction to UX and UI design](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design/Week%201%20-%20Introduction%20to%20UX%20and%20UI%20design)
-  * Week 2: [Evaluating interactive design](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design/Week%202%20-%20Evaluating%20interactive%20design)
-  * Week 3: [Applied Design Fundamentals](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design/Week%203%20-%20Applied%20Design%20Fundamentals)
-  * Week 4: [Designing your UI](https://github.com/ginny100/Meta-Front-End-Developer/tree/master/Course%207%20-%20Principles%20of%20UX-UI%20Design/Week%204%20-%20Designing%20your%20UI)
-  * Week 5: 
-</details>
-
-<details>
-<summary><b>Course 8: </b><a href="https://www.coursera.org/learn/meta-front-end-developer-capstone?specialization=meta-front-end-developer"><b>Front-End Developer Capstone</b></a></summary>
-
-  * Week 1: 
-  * Week 2: 
-  * Week 3: 
-  * Week 4: 
-  * Week 5: 
-</details>
-
-<details>
-<summary><b>Course 9: </b><a href="https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-front-end-developer"><b>Coding Interview Preparation</b></a></summary>
-
-  * Week 1: 
-  * Week 2: 
-  * Week 3: 
-  * Week 4: 
-  * Week 5: 
-</details>
-
+个人计划
+- 2个月
+- 20小时/ 每周 
 ## Proof of Completion
 
 - Not Available
