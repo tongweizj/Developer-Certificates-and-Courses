@@ -1,4 +1,5 @@
 ## Creating layouts
+
 - Video_CSS web layout
 - Reading_Understanding flexbox
 - Reading_CSS units of measurement
@@ -14,7 +15,9 @@
 - Video_Case study: How Meta creates responsive builds
 - Practice Quiz: Knowledge check: Creating layouts
 - Reading_Additional resources
+
 ## CSS Selectors
+
 - Video_Widely used selectors
 - Reading_All selectors and their specificity
 - Video_Combination selectors
@@ -29,6 +32,7 @@
 - Reading_Additional resources
 
 ## CSS Effects
+
 - Video_What is an effect
 - Video_Text effects
 - Reading_Text effects cheat sheet
