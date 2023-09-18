@@ -24,6 +24,7 @@ In this module, you will dive deeper into CSS by applying increasingly specific 
 - Video_Case study: How Meta creates responsive builds
 - Practice Quiz: Knowledge check: Creating layouts
 - Reading_Additional resources
+
 ## CSS Selectors
 - 2.1_Video_Widely used selectors
 - [2.2_Reading_All-selectors-and-their-specificity](./1.course/2.2_Reading_All-selectors-and-their-specificity.md)
