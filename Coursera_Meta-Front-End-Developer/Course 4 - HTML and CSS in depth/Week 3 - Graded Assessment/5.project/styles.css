@@ -1,0 +1,94 @@
+body {
+  background: #ffffff;
+  font-family: "brandon-grotesque", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2rem;
+}
+ul {
+  margin: 0;
+}
+header > img {
+  display: block;
+  margin: 0 auto;
+  width: 15rem;
+}
+nav {
+  width: 100%;
+  background: #e2eaf0;
+}
+nav ul {
+  list-style: none;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0.5rem 1rem;
+  text-align: center;
+}
+nav li a {
+  color: #000;
+  text-decoration: none;
+  font-family: KapraNeue, brandon-grotesque, sans-serif;
+  font-size: 1rem;
+
+  line-height: 2rem;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+}
+
+section {
+  display: flex;
+}
+article {
+  flex: 1;
+}
+
+/* banner start */
+section.banner {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url("./images/banner-big.webp");
+  background-color: #fdfdfd;
+  height: 250px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.banner > div {
+  display: flex;
+  margin: 0 10%;
+}
+.banner > div > div {
+  flex: 1;
+}
+.banner h1 {
+  font-size: 32px !important;
+  line-height: 40px;
+  margin: 0;
+}
+/* shop start */
+section.feature {
+  width: 800px;
+  margin: 0 auto;
+}
+section.feature article {
+  margin: 0 0.5rem 0 0.5rem;
+  padding: auto;
+}
+section.feature article img {
+  width: 100%;
+}
+
+footer {
+  display: flex;
+}
+footer img {
+  width: 10rem;
+}
