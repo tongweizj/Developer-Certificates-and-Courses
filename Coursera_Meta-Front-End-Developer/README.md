@@ -9,7 +9,7 @@
 - basic - 45h
 	- [x] Course 1: [Introduction to Front-End Development](https://www.coursera.org/learn/introduction-to-front-end-development?specialization=meta-front-end-developer)
   	  - 15h
-	- [ ] Course 2: [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth?specialization=meta-front-end-developer)
+	- [x] Course 2: [HTML and CSS in depth](https://www.coursera.org/learn/html-and-css-in-depth?specialization=meta-front-end-developer)
   	  - 21h
 	- [x] Course 3: [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-front-end-developer)
 	  - 9h
@@ -33,9 +33,9 @@
 | ----------- | -------- | ------ | ---- |
 | 8月-2023w34 | 186h     | 15h    | 19%  |
 | 9月-2023w35 |          | 42h       |  30%    |
-| 2023w36     |          | 9h       |  35%    |
+| 2023w36     |          | 21h       |  41%    |
 | 2023w37     |          |        |      |
-| 2023w38     |          |        |      |
+| 2023w38     |          |        |  41%    |
 | 2023w39            |          |        |      |
 
 
