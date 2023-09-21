@@ -56,7 +56,7 @@ In this module you will explore the basic structure and use of the React.js libr
 - Self review: Passing props-Practice Quiz-
 - Video_Introducing JSX
 - Reading_Props and children
-- Reading_Styling JSX elements
+- 3.2_Reading_Styling JSX elements
 - Video_Practical styling
 - Reading_JSX syntax and the arrow function
 - Video_Embedded JSX expressions
