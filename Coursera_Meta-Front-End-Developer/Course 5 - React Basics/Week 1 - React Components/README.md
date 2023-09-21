@@ -24,48 +24,48 @@ In this module you will explore the basic structure and use of the React.js libr
 - Reading_How to be successful in this course
 - 1.4_Reading_Before-you-learn-React
 - 1.5_Reading_JavaScript modules, imports - exports
-- Reading_Working with -Lab-s in this course
+- Reading_Working with Labs in this course
 - Reading_Additional
-- Reading_Setting up a React project in VS Code
+- 1.6_Reading_Setting up a React project in VS Code
 
 ## 2.React Components and Where They Live
 
-- Why React?-Video-
-- React.js overview-Video-
-- Introduction to functional components-Video-
-- Creating React components-Video-
-- Transpiling JSX-Reading-
-- Your first component-Lab-
-- Solution: Your first component-Reading-
+- 2.1_Video_Why-React?
+- 2.2_Video_React.js-overview
+- Video_Introduction to functional components
+- Video_Creating React components
+- Reading_Transpiling JSX
+- Lab_Your first component
+- Reading_Solution: Your first component
 - Self review: Your first component-Practice Quiz-
-- The React project structure-Video-
-- Customizing the project-Reading-
-- Importing components-Video-
-- Creating and importing components-Lab-
+- Video_The React project structure
+- Reading_Customizing the project
+- Video_Video_Importing components
+- Lab_Creating and importing components
 - Self review: Creating and importing components-Practice Quiz-
 - Knowledge check: React components and where they live-Practice Quiz-
-- Additional resources for React components and where they live-Reading-
+- Reading_Additional resources for React components and where they live
 
 ## 3.Component Use and Styling
 
-- Principles of components: Props-Video-
-- Dissecting props-Reading-
-- Using props in components-Video-
-- Passing props-Lab-
-- Solution: Passing props-Reading-
+- Video_Principles of components: Props
+- Reading_Dissecting props
+- Video_Using props in components
+- Lab_Passing props
+- Reading_Solution: Passing props
 - Self review: Passing props-Practice Quiz-
-- Introducing JSX-Video-
-- Props and children-Reading-
-- Styling JSX elements-Reading-
-- Practical styling-Video-
-- JSX syntax and the arrow function-Reading-
-- Embedded JSX expressions-Video-
-- Ternary operators and functions in JSX-Reading-
-- Expressions as props-Reading-
-- Embedding in attributes-Video-
-- Multiple components-Lab-
-- Solution: Multiple components-Reading-
+- Video_Introducing JSX
+- Reading_Props and children
+- Reading_Styling JSX elements
+- Video_Practical styling
+- Reading_JSX syntax and the arrow function
+- Video_Embedded JSX expressions
+- Reading_Ternary operators and functions in JSX
+- Reading_Expressions as props
+- Video_Embedding in attributes
+- Lab_Multiple components
+- Reading_Solution: Multiple components
 - Self review: Multiple components-Practice Quiz-
-- Module summary-Video-
+- Video_Module summary
 - Module Quiz
-- Additional resources-Reading-
+- Reading_Additional resources
