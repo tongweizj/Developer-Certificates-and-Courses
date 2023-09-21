@@ -32,15 +32,15 @@ In this module you will explore the basic structure and use of the React.js libr
 
 - 2.1_Video_Why-React?
 - 2.2_Video_React.js-overview
-- Video_Introduction to functional components
+- 2.3_Video_Introduction-to-functional-components
 - Video_Creating React components
-- Reading_Transpiling JSX
+- 2.4_Reading_Transpiling-JSX
 - Lab_Your first component
 - Reading_Solution: Your first component
 - Self review: Your first component-Practice Quiz-
 - Video_The React project structure
-- Reading_Customizing the project
-- Video_Video_Importing components
+- 2.5_Reading_Customizing-the-project
+- 2.6_Video_Video_Importing-components
 - Lab_Creating and importing components
 - Self review: Creating and importing components-Practice Quiz-
 - Knowledge check: React components and where they live-Practice Quiz-
