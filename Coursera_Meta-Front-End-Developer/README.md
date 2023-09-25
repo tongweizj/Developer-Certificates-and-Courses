@@ -47,6 +47,16 @@
 个人计划
 - 2个月
 - 20小时/ 每周 
+
+## 笔记使用说明
+
+```
+1_course 
+收集视频字幕\reading 内容
+信息含量比较高的内容.
+
+```
+
 ## Proof of Completion
 
 - Not Available

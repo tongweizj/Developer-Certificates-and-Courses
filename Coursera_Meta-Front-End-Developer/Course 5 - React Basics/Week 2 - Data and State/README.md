@@ -7,11 +7,11 @@ You will also gain knowledge on how to handle events and the ability to dynamica
 
 ## Dynamic events and how to handle them
 
-- Video_Types of events
+- 1.1_Video_Types-of-events
 - Reading_Eventful issues
 - Video_Common event handling
 - Knowledge check_Events and errors
-- Video_Syntax for handlers
+- 1.2_Video_Syntax-for-handlers
 - Reading_Event handling and embedded expressions
 - Video_User events
 - Lab_Dynamic events
