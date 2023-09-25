@@ -58,7 +58,7 @@ In this module you will explore the basic structure and use of the React.js libr
 - Reading_Props and children
 - Reading_Styling JSX elements
 - Video_Practical styling
-- Reading_JSX syntax and the arrow function
+- 3.1_Reading_JSX syntax and the arrow function
 - Video_Embedded JSX expressions
 - Reading_Ternary operators and functions in JSX
 - Reading_Expressions as props
