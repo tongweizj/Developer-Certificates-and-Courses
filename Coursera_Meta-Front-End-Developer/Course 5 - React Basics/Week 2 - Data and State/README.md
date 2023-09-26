@@ -12,7 +12,7 @@ You will also gain knowledge on how to handle events and the ability to dynamica
 - Video_Common event handling
 - Knowledge check_Events and errors
 - 1.2_Video_Syntax-for-handlers
-- Reading_Event handling and embedded expressions
+- 1.3_Reading_Event handling and embedded expressions
 - Video_User events
 - Lab_Dynamic events
 - Reading_Solution: Dynamic events
