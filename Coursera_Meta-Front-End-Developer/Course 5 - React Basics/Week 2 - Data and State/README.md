@@ -22,18 +22,18 @@ You will also gain knowledge on how to handle events and the ability to dynamica
 
 ## Data and Events
 
-- Video_Parent-child data flow
-- Reading_Data flow in React
-- Video_Children and data
+- 2.1_Video_Parent-child data flow
+- 2.2_Reading_Data flow in React
+- 2.3_Video_Children and data
 - Knowledge check: Data flow
-- Video_What are hooks?
+- 2.4_Video_What are hooks?
 - Reading_Using hooks
 - Video_What is state?
 - Video_Observing state
 - Knowledge Check: State the concept
-- Video_Managing state
+- 2.5_Video_Managing state
 - Reading_Prop drilling
-- Video_React state management
+- 2.6_Video_React state management
 - Knowledge check: Passing state
 - Video_Stateful vs. stateless
 - Managing state in React

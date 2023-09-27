@@ -1,19 +1,15 @@
-import React from 'react';
+import React from "react";
 
-const MealsContext = React.createContext();
+const MealsContext = React.createContext(); // 创建 global state
 
 const todaysMeals = ["Baked Beans", "Baked Sweet Potatoes", "Baked Potatoes"];
 
 const MealsProvider = ({ children }) => {
+  const [meals, setMealsList] = React.useState(todaysMeals); // 这也是用 useState
 
-    const [meals, setMealsList] = React.useState(todaysMeals);
-
-    return (
-        <MealsContext.Provider value={{ meals }}>
-            {children}
-        </MealsContext.Provider>
-    );
-
+  return (
+    <MealsContext.Provider value={{ meals }}>{children}</MealsContext.Provider>
+  );
 };
 
 export const useMealsListContext = () => React.useContext(MealsContext);
