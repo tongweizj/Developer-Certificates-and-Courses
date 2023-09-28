@@ -26,7 +26,7 @@ In this module you will explore the basics of single and multi-page navigation, 
 ## Using Assets in React
 
 - 2.1_Video_What is an asset and where does it live? 
-- Reading_Bundling assets
+- 2.2_Reading_Bundling-assets
 - Video_Using embedded assets
 - Lab_Displaying images
 - Reading_Solution: Displaying images
