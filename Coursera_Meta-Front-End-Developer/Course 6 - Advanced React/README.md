@@ -44,15 +44,15 @@ Learn how to render list and form components efficiently in React, and learn how
 
 #### Forms in React
 
-- What are controlled components?----Video_
-- Controlled components vs. Uncontrolled components----Reading_
-- Creating a Form component in React----Video_
-- Create a Controlled Form Component----Video_
-- Exercise: Create a registration form Lab_  1     Complete previous item to unlockLocked
-- Solution: Create a registration form----Reading_
-- Self-review: Create a registration formPractice Quiz•3 questions
-- Knowledge check: Forms in ReactPractice Quiz•5 questions
-- Additional resources----Reading_
+- 2.1_Video_What are controlled components?
+- Reading_Controlled components vs. Uncontrolled components
+- Video_Creating a Form component in React
+- Video_Create a Controlled Form Component `./demo/5.create-a-controlled-form-component-demo`
+- Lab_Exercise: Create a registration form 
+- Reading_Solution: Create a registration form
+- Quiz_Self-review: Create a registration form
+- Quiz_Knowledge check: Forms in ReactPractice
+- Reading_Additional resources
 
 #### React Context
 
