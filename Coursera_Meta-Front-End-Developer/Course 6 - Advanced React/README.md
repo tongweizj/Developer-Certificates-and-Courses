@@ -56,16 +56,16 @@ Learn how to render list and form components efficiently in React, and learn how
 
 #### React Context
 
-- What you know about Props and State----Video_
-- What is Context, and why is it used?----Video_
-- Exercise: Create a light-dark theme switcher Lab_  1     Complete previous item to unlockLocked
-- Solution: Create a light-dark theme switcher----Reading_
-- Self-review: Create a light-dark theme switcherPractice Quiz•3 questions
-- How re-rendering works with Context----Reading_
-- Knowledge check: React ContextPractice Quiz•5 questions
-- Module summary: Components----Video_
-- Module quiz: ComponentsDue, Oct 1, 11:59 PM EDTQuiz•10 questions•Grade: --
-- Additional resources----Reading_
+- Video_What you know about Props and State
+- Video_What is Context, and why is it used?
+- Lab_Exercise: Create a light-dark theme switcher
+- Reading_Solution: Create a light-dark theme switcher
+- Self-review: Create a light-dark theme switcher
+- Reading_How re-rendering works with Context
+- Quiz_Knowledge check: React ContextPractice
+- Video_Module summary: Components
+- Module quiz: Components
+- Reading_Additional resources
 
 ### Week 2: React Hooks and Custom Hooks
 
@@ -73,31 +73,31 @@ React Hooks and Custom Hooks53  of videos left 45m of readings left1 graded asse
 
 #### Getting started with hooks
 
-- Working with React hooks----Video_
-- Revising useState hook----Video_W
-- orking with complex data in useState----Reading_
-- Using the useState hook----Video_ 6 6 
-- Exercise: Managing state within a component Lab_  1     Complete previous item to unlockLocked
-- Solution:  Managing state within a component----Reading_
-- Self-review: Managing state within a componentPractice Quiz•3 questions
-- What are side effects?----Video_
-- What is the useEffect hook?----Reading_
-- Using the useEffect hook----Video_
-- Knowledge check: Getting started with hooksPractice Quiz•5 questions
-- Additional resources----Reading_
+- Video_Working with React hooks
+- 1.1_Video_Revising useState hook
+- 1.2_Reading_working with complex data in useState
+- Video_Using the useState hook
+- Lab_Exercise: Managing state within a component
+- Reading_Solution:  Managing state within a component
+- Self-review: Managing state within a component
+- 1.3_Video_What are side effects?
+- Reading_What is the useEffect hook?
+- Video_Using the useEffect hook
+- Knowledge check: Getting started with hooks
+- Reading_Additional resources
 
 #### Rules of Hooks and Fetching Data with Hooks
 
-- What are the rules of hooks?----Video_
-- What you need to know before fetching data----Video_
-- Data fetching using hooks----Reading_
-- Fetching data – Putting it all together----Video_
-- Exercise: Can you fetch data? Lab_  1     
-- Solution: Can you fetch data?----Reading_ 
-- Self-review: Can you fetch data?Practice Quiz•3 questions
-- APIs----Video_
-- Knowledge check: Rules of Hooks and Fetching Data with HooksPractice Quiz•5 questions
-- Additional resources----Reading_
+- 2.1_Video_What are the rules of hooks?
+- 2.2_Reading_Video_What you need to know before fetching data
+- 2.3_Reading_Data fetching using hooks
+- Reading_Video_Fetching data – Putting it all together
+- Lab_Exercise: Can you fetch data?  
+- Reading_Solution: Can you fetch data?
+- Quiz_Self-review: Can you fetch data?
+- Video_APIs
+- Quiz_Knowledge check: Rules of Hooks and Fetching Data with Hooks
+- Reading_Additional resources
 
 #### Advanced hooks
 
