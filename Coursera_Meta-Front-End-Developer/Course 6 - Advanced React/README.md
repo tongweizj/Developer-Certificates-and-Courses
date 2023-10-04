@@ -74,13 +74,19 @@ React Hooks and Custom Hooks53  of videos left 45m of readings left1 graded asse
 #### Getting started with hooks
 
 - Video_Working with React hooks
+
+useState
 - 1.1_Video_Revising useState hook
 - 1.2_Reading_working with complex data in useState
 - Video_Using the useState hook
 - Lab_Exercise: Managing state within a component
 - Reading_Solution:  Managing state within a component
 - Self-review: Managing state within a component
+
+side effects
 - 1.3_Video_What are side effects?
+
+useEffect
 - Reading_What is the useEffect hook?
 - Video_Using the useEffect hook
 - Knowledge check: Getting started with hooks
@@ -89,7 +95,9 @@ React Hooks and Custom Hooks53  of videos left 45m of readings left1 graded asse
 #### Rules of Hooks and Fetching Data with Hooks
 
 - 2.1_Video_What are the rules of hooks?
-- 2.2_Reading_Video_What you need to know before fetching data
+
+fetching
+- 2.2_Video_What you need to know before fetching data
 - 2.3_Reading_Data fetching using hooks
 - Reading_Video_Fetching data – Putting it all together
 - Lab_Exercise: Can you fetch data?  
@@ -101,65 +109,77 @@ React Hooks and Custom Hooks53  of videos left 45m of readings left1 graded asse
 
 #### Advanced hooks
 
-1 graded assessment left
+useReducer
+- 3.1_Video_What-is-useReducer-and-how-it-differs-from-useState
+- Reading_When to choose useReducer vs useState
 
-- What is useReducer and how it differs from useState----Video_
-- When to choose useReducer vs useState----Reading_
-- useRef to access underlying DOM----Video_ 2 2 
-- Custom hooks----Reading_
-- Exercise: Create your own custom hook, usePrevious Lab_  1     Complete previous item to unlockLocked
-- Solution:  Create your own custom hook, usePrevious----Reading_
-- Self-review: Create your own custom hook, usePreviousPractice Quiz•3 questions
-- Knowledge check: Advanced HooksPractice Quiz•5 questions
-- Module summary: React Hooks and Custom Hooks----Video_
-- Module quiz: React Hooks and Custom HooksDue, Oct 8, 11:59 PM EDTQuiz•10 questions•Grade: --
-- Additional resources----Reading_
+useRef
+- Video_useRef to access underlying DOM
+
+Custom hooks
+- Reading_Custom hooks
+- Lab_Exercise: Create your own custom hook, usePrevious
+- Reading_Solution:  Create your own custom hook, usePrevious
+- Quiz_Self-review: Create your own custom hook, usePrevious
+
+总结
+- Quiz_Knowledge check: Advanced Hooks
+- Video_Module summary: React Hooks and Custom Hooks
+- Module quiz: React Hooks and Custom Hooks
+- Reading_Additional resources
 
 ### Week 3: JSX and testing
 
-JSX and testing 2m of videos left 30m of readings left1 graded assessment leftUnderstand JSX in depth and discover advanced patterns to encapsulate common behaviour via higher-order components and render props. Then, learn how to test and debug your application.----
+Understand JSX in depth and discover advanced patterns to encapsulate common behaviour via higher-order components and render props. Then, learn how to test and debug your application.
 
-#### JSX Deep Dive
+Learning Objectives
+- Define the types of **children within JSX**
+- Use JSX to apply React component composition with children.
+- Describe the process and purpose of creating higher-order components.
+- Describe the process and purpose of creating render props.
+- Write a test for a React application using Jest and React Testing Library.
 
-- JSX, Components and Elements----Video_ 6 6 
-- The importance of performance to software development----Video_
-- Component composition with children----Video_
-- Types of Children----Reading_  20 20 
-- Manipulating children dynamically in JSX----Video_
-- Exercise: Build a Radio Group Component Lab_  1     Complete previous item to unlockLocked
-- Solution: Build a Radio Group Component----Reading_
-- Self-review: Build a Radio Group ComponentPractice Quiz•3 questions
-- Spread Attributes----Video_ 6 6 
-- Knowledge check: JSXPractice Quiz•5 questions
-- Additional resources----Reading_
+#### 1.JSX Deep Dive
 
-#### Reusing behavior
+- 1.1_Video_JSX-Components-and-Elements
+- Video_The importance of performance to software development
+- 1.2_Video_Component-composition-with-children
+- 1.3_Reading_Types of Children
+- Video_Manipulating children dynamically in JSX
+- Lab_Exercise: Build a Radio Group Component
+- Reading_Solution: Build a Radio Group Component
+- Quiz_Self-review: Build a Radio Group Component
+- 1.4_Video_Spread-Attributes
+- Quiz_Knowledge check: JSX
+- Reading_Additional resources
 
-- Cross-cutting concerns in React----Video_
-- Higher-order components----Reading_
-- Create a HOC for cursor position----Video_
-- Render props----Video_
-- Exercise: Implementing scroller position with render props Lab_  1     
-Complete previous item to unlockLocked
-- Solution: Implementing scroller position with render props----Reading_
-- Self-review: Implementing scroller position with render propsPractice Quiz•3 questions
-- Knowledge check: Reusing behaviorPractice Quiz•5 questions
-- Additional resources----Reading_
 
-#### Integration tests with React Testing Library
-1 graded assessment left
+#### 2.Reusing behavior
 
-- Why React Testing Library----Video_ 7 7 
-- Writing the first test for your form----Video_
-- Exercise: Writing more test scenarios Lab_  1     Complete previous item to unlockLocked
-- Solution: Writing more test scenarios----Reading_
-- Self-review: Writing more test scenariosPractice Quiz•3 questions
-- Introduction to continuous integration----Reading_
-- Style guides----Video_
-- Knowledge check: Automated testingPractice Quiz•5 questions
-- Module summary: JSX and Testing----Video_
-- Module quiz: JSX and TestingDue, Oct 15, 11:59 PM EDTQuiz•10 questions•Grade: --
-- Additional resources----Reading_
+- Video_Cross-cutting concerns in React
+- Reading_Higher-order components
+- Video_Create a HOC for cursor position
+- Video_Render props
+- Lab_Exercise: Implementing scroller position with render props
+- Reading_Solution: Implementing scroller position with render props
+- Quiz_Self-review: Implementing scroller position with render props
+- Knowledge check: Reusing behavior
+- Reading_Additional resources 
+
+
+#### 3.Integration tests with React Testing Library
+
+- Video_Why React Testing Library 
+- Video_Writing the first test for your form
+- Lab_Exercise: Writing more test scenarios
+- Reading_Solution: Writing more test scenarios
+- Quiz_Self-review: Writing more test scenariosPractice 
+- Reading_Introduction to continuous integration
+- Video_Style guides
+- Quiz_Knowledge check: Automated testing
+- Video_Module summary: JSX and Testing
+- Module quiz: JSX and Testing
+- Reading_Additional resources
 
 ### Week 4: Final project
 
