@@ -156,7 +156,7 @@ Learning Objectives
 
 #### 2.Reusing behavior
 
-- Video_Cross-cutting concerns in React
+- 2.1_Video_Cross-cutting-concerns-in-React
 - Reading_Higher-order components
 - Video_Create a HOC for cursor position
 - Video_Render props
