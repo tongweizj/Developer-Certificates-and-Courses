@@ -174,7 +174,7 @@ Learning Objectives
 - Lab_Exercise: Writing more test scenarios
 - Reading_Solution: Writing more test scenarios
 - Quiz_Self-review: Writing more test scenariosPractice 
-- Reading_Introduction to continuous integration
+- 3.1_Reading_Introduction-to-continuous-integration
 - Video_Style guides
 - Quiz_Knowledge check: Automated testing
 - Video_Module summary: JSX and Testing

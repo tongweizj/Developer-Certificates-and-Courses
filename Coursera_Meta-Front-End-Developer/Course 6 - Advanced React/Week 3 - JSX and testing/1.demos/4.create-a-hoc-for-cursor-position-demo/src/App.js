@@ -1,19 +1,18 @@
-import './App.css';
-import {useState, useEffect} from 'react';
+import "./App.css";
+import { useState, useEffect } from "react";
 
 // HOC---
 /**
  * Note that "with" in the HOC's name is a general convention recommended by React
- * since it expresses the enhancing nature of the technique, 
+ * since it expresses the enhancing nature of the technique,
  * like providing a component with something else
  */
 const withMousePosition = (WrappedComponent) => {
   return (props) => {
-
     const [mousePosition, setMousePosition] = useState({
       x: 0,
       y: 0,
-    })
+    });
 
     useEffect(() => {
       const handleMousePositionChange = (e) => {
@@ -30,7 +29,7 @@ const withMousePosition = (WrappedComponent) => {
       };
     }, []);
 
-    return <WrappedComponent {...props} mousePosition={mousePosition} />
+    return <WrappedComponent {...props} mousePosition={mousePosition} />;
   };
 };
 // ---HOC
@@ -60,14 +59,13 @@ const PointMouseLogger = ({ mousePosition }) => {
       ({mousePosition.x}, {mousePosition.y})
     </p>
   );
-}
+};
 // ---Components without HOC
 
 // Components with HOC---
 const PanelMouseTracker = withMousePosition(PanelMouseLogger);
 const PointMouseTracker = withMousePosition(PointMouseLogger);
 // ---Components with HOC
-
 
 function App() {
   return (
