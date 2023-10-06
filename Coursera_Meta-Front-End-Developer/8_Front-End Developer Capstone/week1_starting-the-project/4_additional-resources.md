@@ -51,3 +51,9 @@ Besides the earlier courses in the program, there are some useful external resou
 
 - [React ecosystem resources](https://github.com/enaqx/awesome-react)
 响应生态系统资源
+
+## Setting up the project
+
+The following resource is additional reading material that will help you gain more insight into setting up a React app.
+
+- [Create a New React App (an official React docs reading)](https://react.dev/learn/start-a-new-react-project)
