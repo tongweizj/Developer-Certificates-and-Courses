@@ -70,6 +70,7 @@ Each week intends to equip you with the knowledge and skills needed to guide you
 Be able to understand best practice interaction design methods and evaluate and improve your own and others designsShow Learning Objectives
 
 ### 1.Evaluation methodologies
+
 - Video_Evaluating design 
 - Reading_Evaluation cheat sheets
 - Reading_Designing for accessibility
@@ -91,12 +92,13 @@ Be able to understand best practice interaction design methods and evaluate and 
 
 
 ### 3.Evaluate Little Lemon website
-Video_1 graded assessment leftLittle Lemon evaluation
-- Reading_Little Lemon form breakdown
-- Reading_Use of menu icons in navigation 
-- Video_Navigation best practices  
+
+- 3.1_Video_Little Lemon evaluation
+- 3.2_Reading_Little Lemon form breakdown
+- 3.3_Reading_Use of menu icons in navigation 
+- 3.4_Video_Navigation best practices  
 - Knowledge check: Navigation and form design
-- Module summary: Evaluating 
-- Video_interactive design
+- 3.5_Module summary: Evaluating 
+- 3.6_Video_interactive design
 - Module quiz: Evaluating interactive design
 - Reading_Additional resources
