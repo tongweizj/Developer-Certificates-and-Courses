@@ -1,14 +1,14 @@
-# 
+# README
 
 ## Starting the project
+
  of videos left4h 4m of readings left graded assessment leftIn this module, you’ll get started with the capstone project. This will include a brief recap of, and links to, content in the React course you have already completed.
 Show Learning Objectives
 
-
-## Project info
+## 1.Project info
 
 - Video_Introduction to the course
-- Reading_Course syllabus
+- 1.1_Reading_Course syllabus
 - Meet and greet 
 - Reading_How to be successful in this course
 - Reading_Checking your development environment

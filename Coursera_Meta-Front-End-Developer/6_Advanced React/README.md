@@ -9,6 +9,13 @@
 第1,2周, 工作量比较大,
 第3,4周, 比较轻松
 
+业务
+1. render lists
+2. forums
+
+知识点
+3. controlled and uncontrolled components
+4. 
 ### Week 1: Components
 
 Learn how to render list and form components efficiently in React, and learn how to lift a shared state up when several components need the updated data.
@@ -56,6 +63,10 @@ Learn how to render list and form components efficiently in React, and learn how
 
 #### React Context
 
+难度:中等
+重点:
+
+
 - Video_What you know about Props and State
 - Video_What is Context, and why is it used?
 - Lab_Exercise: Create a light-dark theme switcher
@@ -69,13 +80,17 @@ Learn how to render list and form components efficiently in React, and learn how
 
 ### Week 2: React Hooks and Custom Hooks
 
+难度: 高
+重点:
+
 React Hooks and Custom Hooks53  of videos left 45m of readings left1 graded assessment leftLearn to use all the common hooks in React, and how to put them to use within your application. Then, build your own custom hooks.----
 
 #### Getting started with hooks
 
 - Video_Working with React hooks
 
-useState
+##### useState
+
 - 1.1_Video_Revising useState hook
 - 1.2_Reading_working with complex data in useState
 - Video_Using the useState hook
@@ -83,10 +98,12 @@ useState
 - Reading_Solution:  Managing state within a component
 - Self-review: Managing state within a component
 
-side effects
+##### side effects
+
 - 1.3_Video_What are side effects?
 
-useEffect
+##### useEffect
+
 - Reading_What is the useEffect hook?
 - Video_Using the useEffect hook
 - Knowledge check: Getting started with hooks
@@ -96,10 +113,12 @@ useEffect
 
 - 2.1_Video_What are the rules of hooks?
 
-fetching
+##### fetching
+
 - 2.2_Video_What you need to know before fetching data
 - 2.3_Reading_Data fetching using hooks
 - Reading_Video_Fetching data – Putting it all together
+
 - Lab_Exercise: Can you fetch data?  
 - Reading_Solution: Can you fetch data?
 - Quiz_Self-review: Can you fetch data?
@@ -109,20 +128,24 @@ fetching
 
 #### Advanced hooks
 
-useReducer
+##### useReducer
+
 - 3.1_Video_What-is-useReducer-and-how-it-differs-from-useState
 - Reading_When to choose useReducer vs useState
 
-useRef
+##### useRef
+
 - Video_useRef to access underlying DOM
 
-Custom hooks
+##### Custom hooks
+
 - Reading_Custom hooks
 - Lab_Exercise: Create your own custom hook, usePrevious
 - Reading_Solution:  Create your own custom hook, usePrevious
 - Quiz_Self-review: Create your own custom hook, usePrevious
 
-总结
+##### 总结
+
 - Quiz_Knowledge check: Advanced Hooks
 - Video_Module summary: React Hooks and Custom Hooks
 - Module quiz: React Hooks and Custom Hooks
@@ -130,9 +153,13 @@ Custom hooks
 
 ### Week 3: JSX and testing
 
+这个章节是对整个知识点做收尾的.
+把很多在实际工作中需要知识到的信息都集中到了一起.
+
 Understand JSX in depth and discover advanced patterns to encapsulate common behaviour via higher-order components and render props. Then, learn how to test and debug your application.
 
 Learning Objectives
+
 - Define the types of **children within JSX**
 - Use JSX to apply React component composition with children.
 - Describe the process and purpose of creating higher-order components.
@@ -152,7 +179,6 @@ Learning Objectives
 - 1.4_Video_Spread-Attributes
 - Quiz_Knowledge check: JSX
 - Reading_Additional resources
-
 
 #### 2.Reusing behavior
 
@@ -188,22 +214,21 @@ In this module, you will be assessed on the key skills covered in the course and
 
 #### Graded assessment
 
-- Course recap: Advanced React----Video_
-- About the final project----Reading_
-- Popular external libraries----Reading_
-- Create your portfolio Lab_  1     
-- Review a peer's portfolioDue, Oct 22, 11:59 PM EDTPeer-graded Assignment•.  1     •Grade: --Review a peer's portfolioDue, Oct 25, 11:59 PM EDT
-- Review Your Peers•Grade: --Complete previous item to unlockLocked
-- Solution walk-through: Portfolio----Video_ 6 6 Complete previous item to unlockLocked
-- Solution code----Reading_  30 30 
-- Final graded quiz: Advanced ReactDue, Oct 22, 11:59 PM EDTQuiz•10 questions•Grade: --
+- 1.1_Video_Course-recap-Advanced-React
+- 1.2_Reading_About-the-final-project
+- Reading_Popular external libraries
+- Lab_Create your portfolio
+- Review a peer's portfolio
+- Video_Solution walk-through: Portfolio
+- Reading_Solution code
+- Final graded quiz: Advanced React
 
 #### Course wrap-up
 
-- Congratulations, you have completed Advanced React!----Video_ 2 2 
-- Reflect on learningDiscussion Prompt•.
-- Next steps----Reading_
- 
+- Video_Congratulations, you have completed Advanced React!
+- Reflect on learning.
+- Reading_Next steps
+
 ## Proof of Completion
 
 <img src="./certificate.png" width=800>
