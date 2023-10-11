@@ -14,7 +14,7 @@ Show Learning Objectives
 - Reading_Checking your development environment
 - Reading_Additional resources
 
-## Setting up the project
+## 2.Setting up the project
 
 - Video_Setting up the project
 - Reading_Recap: Version control
@@ -28,17 +28,17 @@ Show Learning Objectives
 - Reading_Additional resources
 
 
-## Planning the UX and UI
+## 3.Planning the UX and UI
  
-- Video_Planning the UX and UI
-- Reading_Recap: Principles of UX and UI
-- Reading_Exercise: Wireframing the project
+- 3.1_Video_Planning the UX and UI
+- 3.2_Reading_Recap: Principles of UX and UI
+- 3.3_Reading_Exercise: Wireframing the project
 - Readiness check: Did you complete the wireframe?
-- Reading_Exercise: Designing components
+- 3.4_Reading_Exercise: Designing components
 - Readiness check: Did you establish the designs for your key components?
 - Reading_Exercise: Applying design fundamentals in Figma
 - Readiness check: Did you establish a typographic hierarchy, fonts and colors using the style guide?
 - Knowledge check: Planning the UX and UI
-- Video_Module summary: Starting the project
+- 3.5_Video_Module summary: Starting the project
 - Module Quiz: Starting the Project
-- Reading_Additional resources
+- 3.6_Reading_Additional resources
