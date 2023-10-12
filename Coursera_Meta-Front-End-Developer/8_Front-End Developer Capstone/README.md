@@ -1,11 +1,13 @@
 # README
 
-## Starting the project
+## Week 1
+
+### Starting the project
 
  of videos left4h 4m of readings left graded assessment leftIn this module, you’ll get started with the capstone project. This will include a brief recap of, and links to, content in the React course you have already completed.
 Show Learning Objectives
 
-## 1.Project info
+### 1.Project info
 
 - Video_Introduction to the course
 - 1.1_Reading_Course syllabus
@@ -14,7 +16,7 @@ Show Learning Objectives
 - Reading_Checking your development environment
 - Reading_Additional resources
 
-## 2.Setting up the project
+### 2.Setting up the project
 
 - Video_Setting up the project
 - Reading_Recap: Version control
@@ -28,7 +30,7 @@ Show Learning Objectives
 - Reading_Additional resources
 
 
-## 3.Planning the UX and UI
+### 3.Planning the UX and UI
  
 - 3.1_Video_Planning the UX and UI
 - 3.2_Reading_Recap: Principles of UX and UI
