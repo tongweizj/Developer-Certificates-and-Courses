@@ -54,22 +54,22 @@ You will also useCSS grid and other CSS styling to set up a responsive, clear an
 ### 1.Semantic structure
 
 - 1.1_Video_Setting up a semantic HTML document
-- 1.1_Reading_Recap: Semantic HTML
-- 1.1_Reading_Exercise: Setting up the HTML document
-- 1.1_Reading_Readiness check: Did you set up a semantic HTML document?
-- 1.1_Reading_Recap: Meta tags and Open Graph protocol
-- 1.1_Reading_Exercise: Adding meta tags and setting up OGP
+- 1.2_Reading_Recap: Semantic HTML
+- 1.3_Reading_Exercise: Setting up the HTML document
+- 1.4_Reading_Readiness check: Did you set up a semantic HTML document?
+- 1.5_Reading_Recap: Meta tags and Open Graph protocol
+- 1.6_Reading_Exercise: Adding meta tags and setting up OGP
 - Readiness check: Did you establish meta tags and Open Graph protocol data?
 - Readiness check: Did you commit your progress to Git?
 - Knowledge check: Semantic structure
 - Practice Quiz• questions
-- 1.1_Reading_Additional resources
+- 1.7_Reading_Additional resources
 
 ### 2.Styling and responsiveness
 
-- 1.1_Video_Styling elements
-- 1.1_Reading_ Recap: CSS grids 
-- 1.1_Reading_ Exercise: Setting up the CSS layout
+- 2.1_Video_Styling elements
+- 2.2_Reading_ Recap: CSS grids 
+- 2.3_Reading_ Exercise: Setting up the CSS layout
 - Readiness check: Did you set up a responsive CSS layout?
 - 1.1_Reading_ Recap: Styling elements
 - 1.1_Reading_Exercise: Styling elements 
