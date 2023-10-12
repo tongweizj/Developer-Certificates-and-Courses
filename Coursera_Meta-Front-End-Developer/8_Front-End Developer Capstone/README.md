@@ -11,7 +11,7 @@ Show Learning Objectives
 
 - Video_Introduction to the course
 - 1.1_Reading_Course syllabus
-- Meet and greet 
+- Meet and greet
 - Reading_How to be successful in this course
 - Reading_Checking your development environment
 - Reading_Additional resources
@@ -48,16 +48,17 @@ g the project
 
 ## Week 2 Project foundations
 
-In this module, you’ll use semantic HTML,  meta tags and Open Graph protocol to create a modern HTML structure for the web app. 
-You will also use  CSS grid and other CSS styling to set up a responsive, clear and inviting website.Show Learning Objectives
+In this module, you’ll use semantic HTML,meta tags and Open Graph protocol to create a modern HTML structure for the web app. 
+You will also useCSS grid and other CSS styling to set up a responsive, clear and inviting website.Show Learning Objectives
 
 ### 1.Semantic structure
-- 1.1_Video_Setting up a semantic HTML document   
-- 1.1_Reading_Recap: Semantic HTML   
-- 1.1_Reading_  Exercise: Setting up the HTML document  
-- 1.1_Reading_  Readiness check: Did you set up a semantic HTML document?
-- 1.1_Reading_  Recap: Meta tags and Open Graph protocol  
-- 1.1_Reading_  Exercise: Adding meta tags and setting up OGP  
+
+- 1.1_Video_Setting up a semantic HTML document
+- 1.1_Reading_Recap: Semantic HTML
+- 1.1_Reading_Exercise: Setting up the HTML document
+- 1.1_Reading_Readiness check: Did you set up a semantic HTML document?
+- 1.1_Reading_Recap: Meta tags and Open Graph protocol
+- 1.1_Reading_Exercise: Adding meta tags and setting up OGP
 - Readiness check: Did you establish meta tags and Open Graph protocol data?
 - Readiness check: Did you commit your progress to Git?
 - Knowledge check: Semantic structure
@@ -65,27 +66,27 @@ You will also use  CSS grid and other CSS styling to set up a responsive, clear 
 - 1.1_Reading_Additional resources
 
 ### 2.Styling and responsiveness
-- 1.1_Video_Styling elements   
-- 1.1_Reading_ Recap: CSS grids    
-- 1.1_Reading_ Exercise: Setting up the CSS layout   
+
+- 1.1_Video_Styling elements
+- 1.1_Reading_ Recap: CSS grids 
+- 1.1_Reading_ Exercise: Setting up the CSS layout
 - Readiness check: Did you set up a responsive CSS layout?
-- 1.1_Reading_ Recap: Styling elements   
+- 1.1_Reading_ Recap: Styling elements
 - 1.1_Reading_Exercise: Styling elements 
 - Readiness check: Did you check that the visual elements of the website match the Figma design?
 - Readiness check: Did you commit your progress to Git?
 - Knowledge check: Styling and responsiveness
 - 1.1_Reading_ Additional resources 
 
-
-
 ### 3.Adding components
+
 - 1.1_Video_graded assessment leftProject components 
-- Recap: React basics    
-- 1.1_Reading_Exercise: Setting up the app components     
+- Recap: React basics 
+- 1.1_Reading_Exercise: Setting up the app components
 - Readiness check: Did you set up the app components?
 - Readiness check: Are your components semantically correct?
 - Readiness check: Did you commit your progress to Git?
 - Knowledge check: Adding components
 - 1.1_Video_Module summary: Project foundations
 - Module Quiz: Project Foundations 
-- 1.1_Reading_Additional resources  
+- 1.1_Reading_Additional resources
