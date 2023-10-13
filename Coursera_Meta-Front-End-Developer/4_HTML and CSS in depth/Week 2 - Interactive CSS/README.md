@@ -1,6 +1,10 @@
 
+# README
+
 In this module, you will dive deeper into CSS by applying increasingly specific styling to various elements.
-### Learning Objectives
+
+## Learning Objectives
+
 - Adapt your CSS to perform as expected in different browsers.
 - Perform basic front-end testing, debugging and error handling.
 - Create simple keyframe animations.
@@ -9,6 +13,7 @@ In this module, you will dive deeper into CSS by applying increasingly specific 
 - Use Flexbox and CSS grids to create responsive layouts and charts.
 
 ## Creating layouts
+
 - [[1.1_Video_CSS-web-layout]]
 - [[1.2_Reading_understanding-flexbox]]
 - [[1.3_Reading_CSS-units-of-measurement]]
