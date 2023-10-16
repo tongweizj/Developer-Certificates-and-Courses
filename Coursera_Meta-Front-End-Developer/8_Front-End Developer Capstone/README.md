@@ -29,9 +29,8 @@ Show Learning Objectives
 - Knowledge check: Setting up the project
 - Reading_Additional resources
 
-
 ### 3.Planning the UX and UI
- 
+
 - 3.1_Video_Planning the UX and UI
 - 3.2_Reading_Recap: Principles of UX and UI
 - 3.3_Reading_Exercise: Wirefra
@@ -55,38 +54,45 @@ You will also useCSS grid and other CSS styling to set up a responsive, clear an
 
 - 1.1_Video_Setting up a semantic HTML document
 - 1.2_Reading_Recap: Semantic HTML
-- 1.3_Reading_Exercise: Setting up the HTML document
-- 1.4_Reading_Readiness check: Did you set up a semantic HTML document?
-- 1.5_Reading_Recap: Meta tags and Open Graph protocol
-- 1.6_Reading_Exercise: Adding meta tags and setting up OGP
-- Readiness check: Did you establish meta tags and Open Graph protocol data?
-- Readiness check: Did you commit your progress to Git?
-- Knowledge check: Semantic structure
-- Practice Quiz• questions
-- 1.7_Reading_Additional resources
+- 1.3_Exercise: Setting up the HTML document
+- quiz_Did you set up a semantic HTML document?
+- 1.4_Recap: Meta tags and Open Graph protocol
+- 1.5_Exercise: Adding meta tags and setting up OGP
+- quiz_Did you establish meta tags and Open Graph protocol data?
+- quiz_Did you commit your progress to Git?
+- Quiz_Semantic structure
+- Reading_Additional resources
 
 ### 2.Styling and responsiveness
 
 - 2.1_Video_Styling elements
-- 2.2_Reading_ Recap: CSS grids 
-- 2.3_Reading_ Exercise: Setting up the CSS layout
-- Readiness check: Did you set up a responsive CSS layout?
-- 1.1_Reading_ Recap: Styling elements
-- 1.1_Reading_Exercise: Styling elements 
-- Readiness check: Did you check that the visual elements of the website match the Figma design?
-- Readiness check: Did you commit your progress to Git?
-- Knowledge check: Styling and responsiveness
-- 1.1_Reading_ Additional resources 
+- 2.2_Recap: CSS grids
+- 2.3_Exercise: Setting up the CSS layout
+- Quiz_Did you set up a responsive CSS layout?
+- 2.4_Recap: Styling elements
+- 2.5_Exercise: Styling elements
+- Quiz_Did you check that the visual elements of the website match the Figma design?
+- Quiz_Did you commit your progress to Git?
+- Quiz_Styling and responsiveness
+- Reading_Additional resources
 
 ### 3.Adding components
 
-- 1.1_Video_graded assessment leftProject components 
-- Recap: React basics
-- 1.1_Reading_Exercise: Setting up the app components
-- Readiness check: Did you set up the app components?
-- Readiness check: Are your components semantically correct?
-- Readiness check: Did you commit your progress to Git?
-- Knowledge check: Adding components
-- 1.1_Video_Module summary: Project foundations
+- 3.1_Video_Project components
+- 3.2_Recap: React basics
+- 3.3_Exercise: Setting up the app components
+- check: Did you set up the app components?
+- check: Are your components semantically correct?
+- check: Did you commit your progress to Git?
+- check: Adding components
+- 3.4_Video_Module summary: Project foundations
 - Module Quiz: Project Foundations 
-- 1.1_Reading_Additional resources
+- Reading_Additional resources
+
+
+
+任务
+1. 创建react项目
+2. 在 app.js 增加语义化页面模块(1.3)
+3. 在 head 里面增加Meta tags and Open Graph protocol(1.4,1.5)
+4. 增加 css grid(2.4)

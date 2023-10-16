@@ -16,3 +16,24 @@ Metadata
 
 Metadata cheat sheet
 https://www.coursera.org/learn/html-and-css-in-depth/supplement/8QDS1/metadata-cheat-sheet
+
+## Grid
+
+
+- CSS web layout
+https://www.coursera.org/learn/html-and-css-in-depth/lecture/qsWww/css-web-layout
+
+- CSS units of measurement
+https://www.coursera.org/learn/html-and-css-in-depth/supplement/sBxty/css-units-of-measurement
+
+- Understanding Flexbox
+https://www.coursera.org/learn/html-and-css-in-depth/supplement/srX6c/understanding-flexbox
+
+- Basic Flexbox
+https://www.coursera.org/learn/html-and-css-in-depth/lecture/2Ur82/basic-flexbox
+
+- CSS Grids
+https://www.coursera.org/learn/html-and-css-in-depth/lecture/VQIRo/css-grids
+
+- Grids and Flexbox cheat sheet
+https://www.coursera.org/learn/html-and-css-in-depth/supplement/A76Uo/grids-and-flexbox-cheat-sheet
