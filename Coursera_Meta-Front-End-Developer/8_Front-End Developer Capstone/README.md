@@ -1,4 +1,4 @@
-# README
+# Front-End Developer Capstone
 
 ## Week 1
 
@@ -9,21 +9,21 @@ Show Learning Objectives
 
 ### 1.Project info
 
-- Video_Introduction to the course
-- 1.1_Reading_Course syllabus
+- 1.1_Video_Introduction to the course
+- 1.2_Reading_Course syllabus
 - Meet and greet
-- Reading_How to be successful in this course
-- Reading_Checking your development environment
+- 1.3_Reading_How to be successful in this course
+- 1.4_Reading_Checking your development environment
 - Reading_Additional resources
 
 ### 2.Setting up the project
 
-- Video_Setting up the project
-- Reading_Recap: Version control
-- Reading_Exercise: Setting up the repository
+- 2.1_Video_Setting up the project
+- 2.2_Reading_Recap: Version control
+- 2.3_Reading_Exercise: Setting up the repository
 - Readiness check: Did you set up the Git repository?
-- Reading_Recap: React set up
-- Reading_Exercise: Setting up the React project
+- 2.4_Reading_Recap: React set up
+- 2.5_Reading_Exercise: Setting up the React project
 - Readiness check: Did you set up the React project?
 - Readiness check: Did you push your commits?
 - Knowledge check: Setting up the project
@@ -81,7 +81,7 @@ You will also useCSS grid and other CSS styling to set up a responsive, clear an
 ### 3.Adding components
 
 - 1.1_Video_graded assessment leftProject components 
-- Recap: React basics 
+- Recap: React basics
 - 1.1_Reading_Exercise: Setting up the app components
 - Readiness check: Did you set up the app components?
 - Readiness check: Are your components semantically correct?
