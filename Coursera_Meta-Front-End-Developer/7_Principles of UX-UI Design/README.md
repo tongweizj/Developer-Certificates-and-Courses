@@ -20,50 +20,45 @@ The course is structured around restaurateurs Adrian and Mario's issue with thei
 
 Each week intends to equip you with the knowledge and skills needed to guide you through the process of UX and UI methodologies to resolve various UX and UI issues. 
 
+### 1.Course introduction
 
-### Course introduction
-
-- Video_Introduction to the principles of UX and UI design
-- Video_A day in the life of a Meta product designer
-- Video_Introduction to UX and UI
-- Video_A day in the life of a Meta product manager
+- 1.1_Video_Introduction to the principles of UX and UI design
+- 1.2_Video_A day in the life of a Meta product designer
+- 1.3_Video_Introduction to UX and UI
+- 1.4_Video_A day in the life of a Meta product manager
 - What do you hope to learn? 
-- Video_Final project overview
-- Reading_UX UI Course syllabus
-- Reading_- How to be successful in this course
+- 1.5_Video_Final project overview
+- 1.6_Reading_UX UI Course syllabus
+- 1.7_Reading_- How to be successful in this course
+
+### 2.What is UX?
+
+- 2.1_Video_What is UX?
+- 2.2_Video_UX goals+Quality components
+- 2.3_Reading_Empathy tools: Artifacts in the UX process
+- 2.4_Video_Overview of the UX process
+- Quiz_What is UX?
+
+### 3.What is UI?
+
+- 3.1_Video_What is UI?
+- 3.2_Reading_Types of digital design
+- 3.3_Reading_Set up a Figma account
+- 3.4_Video_Getting started with Figma
+- Quiz_What is UI?
 
 
-### What is UX?
+### 4.User-centered design
 
-- Video_What is UX?
-- Video_UX goals  + Quality components
-- Reading_Empathy tools: Artifacts in the UX process
-- Video_Overview of the UX process
-- Reading_Knowledge check: What is UX?Practice Quiz• 
-
-
-### What is UI?
-
-- Video_What is UI?
-- Reading_Types of digital design
-- Reading_Set up a Figma account
-- Quiz_Video_Getting started with Figma
-- Reading_Knowledge check: What is UI?Practice Quiz• 
-
-
-### User-centered design
-
-- Video_Who is your user?
-- Reading_Little Lemon scenario
-- Video_Empathy tools
-- Reading_Exercise: Create a persona
-- Reading_-  previous item
-- Solution: Create a persona
-- Self-review: Create a persona
-- Video_Case Study: User research in the real world
-- Video_Module summary: Introduction to UX and UI
-- Reading_Module quiz: Introduction to UX and UI
-
+- 4.1_Video_Who is your user?
+- 4.2_Reading_Little Lemon scenario
+- 4.3_Video_Empathy tools
+- 4.4_Reading_Exercise: Create a persona
+- 4.5_Solution: Create a persona
+- 4.6_Self-review: Create a persona
+- 4.7_Video_Case Study: User research in the real world
+- 4.8_Video_Module summary: Introduction to UX and UI
+- Quiz_Introduction to UX and UI
 
 ## Week2: Evaluating interactive design
 
