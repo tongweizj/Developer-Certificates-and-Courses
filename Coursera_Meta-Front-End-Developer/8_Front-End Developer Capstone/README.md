@@ -80,7 +80,7 @@ You will also useCSS grid and other CSS styling to set up a responsive, clear an
 
 - 3.1_Video_Project components
 - 3.2_Recap: React basics
-- 3.3_Exercise: Setting up the app components
+- 3.3_Exercise_Setting-up-the-app-components
 - check: Did you set up the app components?
 - check: Are your components semantically correct?
 - check: Did you commit your progress to Git?
