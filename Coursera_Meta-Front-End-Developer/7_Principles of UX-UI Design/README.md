@@ -47,7 +47,6 @@ Each week intends to equip you with the knowledge and skills needed to guide you
 - 3.4_Video_Getting started with Figma
 - Quiz_What is UI?
 
-
 ### 4.User-centered design
 
 - 4.1_Video_Who is your user?
@@ -78,6 +77,7 @@ Be able to understand best practice interaction design methods and evaluate and 
 
 
 ### 2.Best practice principles
+
 - 2.1_Video_Form design  
 - 2.2_Reading_Form design best practice
 - 2.3_Video_Components in UI design
@@ -97,3 +97,43 @@ Be able to understand best practice interaction design methods and evaluate and 
 - 3.6_Video_interactive design
 - Module quiz: Evaluating interactive design
 - Reading_Additional resources
+
+## week3 Applied Design Fundamentals
+
+Applied Design Fundamentals31 
+
+ of videos left3h 13m of readings left1 graded assessment leftLearn what constitutes successful UI and evaluate existing interfaces for design consistency and quality.Show Learning Objectives
+
+### 1. Figma Fundamentals
+
+- 1.1_Video_Frames-layers-and-basic-shapes
+- 1.2_Reading_Layers-groups-and-frames
+- 1.3_Video_Type-and-text
+- 1.4_Reading_Typography-and-best-practice
+- 1.5_Video_Grids and constraints
+- 1.6_Reading_Creating grids for tablets and mobile
+- 1.7_Reading_Grid systems
+- 1.8_Video_Manipulating elements
+- 1.9_Video_Working with images
+- Reading_How to save and import Figma files
+- Exercise_Design - Text hierarchy and grid
+- Solution_Design - Text and hierarchy grid
+- Self-review_Design-Text hierarchy and grid
+- Quiz_Type and text design
+- Additional resources
+
+### 2.Iterative design
+
+- Video_Wireframing
+- Reading_Rapid prototyping
+- Exercise: Create wireframe in Figma
+- Solution: Create wireframe in Figma
+- Self-Review: Create wireframe in Figma
+- Reading_Usability test cheat sheet and template
+- Exercise: Write a usability test
+- olution: Write a usability test
+- Self-review: Write a usability test
+- Video_Module summary: Applied design fundamentals
+- Module quiz: Design and test
+- Additional Resources
+
