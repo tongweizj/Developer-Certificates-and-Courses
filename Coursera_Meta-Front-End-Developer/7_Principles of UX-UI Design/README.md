@@ -100,9 +100,7 @@ Be able to understand best practice interaction design methods and evaluate and 
 
 ## week3 Applied Design Fundamentals
 
-Applied Design Fundamentals31 
-
- of videos left3h 13m of readings left1 graded assessment leftLearn what constitutes successful UI and evaluate existing interfaces for design consistency and quality.Show Learning Objectives
+Learn what constitutes successful UI and evaluate existing interfaces for design consistency and quality.
 
 ### 1. Figma Fundamentals
 
@@ -124,16 +122,15 @@ Applied Design Fundamentals31
 
 ### 2.Iterative design
 
-- Video_Wireframing
-- Reading_Rapid prototyping
-- Exercise: Create wireframe in Figma
+- 2.1_Video_Wireframing
+- 2.2_Reading_Rapid prototyping
+- 2.3_Exercise_Create wireframe in Figma
 - Solution: Create wireframe in Figma
 - Self-Review: Create wireframe in Figma
-- Reading_Usability test cheat sheet and template
-- Exercise: Write a usability test
-- olution: Write a usability test
+- 2.4_Reading_Usability test cheat sheet and template
+- 2.5_Exercise_Write-a-usability-test
+- 2.6_solution: Write a usability test
 - Self-review: Write a usability test
-- Video_Module summary: Applied design fundamentals
+- 2.5_Video_Module summary: Applied design fundamentals
 - Module quiz: Design and test
 - Additional Resources
-
