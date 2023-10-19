@@ -1,12 +1,12 @@
 # README
 
-## week1: Introduction to UX and UI design
+## week1_Introduction to UX and UI design
 
 This is a beginner course for learners who would like to prepare themselves for a career in UX and UI design. To succeed in this course, you do not need prior development experience, only basic internet navigation skills and an eagerness to learn. 
 
 The course introduces you to digital User Experience (UX) and User Interface (UI) design on a foundational level. You will learn about the fundamentals of UX and UI design that are core to the success of any website.  
 
-By the end of this course you will be able to: 
+By the end of this course you will be able to_
 
 Design digital products that create value and solve a user's problems in meaningful ways. 
 
@@ -35,7 +35,7 @@ Each week intends to equip you with the knowledge and skills needed to guide you
 
 - 2.1_Video_What is UX?
 - 2.2_Video_UX goals+Quality components
-- 2.3_Reading_Empathy tools: Artifacts in the UX process
+- 2.3_Reading_Empathy tools_Artifacts in the UX process
 - 2.4_Video_Overview of the UX process
 - Quiz_What is UX?
 
@@ -52,14 +52,14 @@ Each week intends to equip you with the knowledge and skills needed to guide you
 - 4.1_Video_Who is your user?
 - 4.2_Reading_Little Lemon scenario
 - 4.3_Video_Empathy tools
-- 4.4_Reading_Exercise: Create a persona
-- 4.5_Solution: Create a persona
-- 4.6_Self-review: Create a persona
-- 4.7_Video_Case Study: User research in the real world
-- 4.8_Video_Module summary: Introduction to UX and UI
+- 4.4_Reading_Exercise_Create a persona
+- 4.5_Solution_Create a persona
+- 4.6_Self-review_Create a persona
+- 4.7_Video_Case Study_User research in the real world
+- 4.8_Video_Module summary_Introduction to UX and UI
 - Quiz_Introduction to UX and UI
 
-## Week2: Evaluating interactive design
+## Week2_Evaluating interactive design
 
 Be able to understand best practice interaction design methods and evaluate and improve your own and others designsShow Learning Objectives
 
@@ -68,11 +68,11 @@ Be able to understand best practice interaction design methods and evaluate and 
 - Video_Evaluating design 
 - Reading_Evaluation cheat sheets
 - Reading_Designing for accessibility
-- Video_Case Study: Accessibility at Meta
-- Exercise: Heuristic evaluation
-- Reading_ Solution: Heuristic evaluation
-- Self-Review:  Heuristic evaluation
-- Knowledge check: Evaluation methods
+- Video_Case Study_Accessibility at Meta
+- Exercise_Heuristic evaluation
+- Reading_ Solution_Heuristic evaluation
+- Self-Review_ Heuristic evaluation
+- Knowledge check_Evaluation methods
 - Reading_ Additional resources 
 
 
@@ -81,7 +81,7 @@ Be able to understand best practice interaction design methods and evaluate and 
 - 2.1_Video_Form design  
 - 2.2_Reading_Form design best practice
 - 2.3_Video_Components in UI design
-- Knowledge check: Best practice principles
+- Knowledge check_Best practice principles
 - Bad forms!Discussion Prompt
 - Reading_Additional resources 
 
@@ -92,10 +92,10 @@ Be able to understand best practice interaction design methods and evaluate and 
 - 3.2_Reading_Little Lemon form breakdown
 - 3.3_Reading_Use of menu icons in navigation 
 - 3.4_Video_Navigation best practices  
-- Knowledge check: Navigation and form design
-- 3.5_Module summary: Evaluating 
+- Knowledge check_Navigation and form design
+- 3.5_Module summary_Evaluating 
 - 3.6_Video_interactive design
-- Module quiz: Evaluating interactive design
+- Module quiz_Evaluating interactive design
 - Reading_Additional resources
 
 ## week3 Applied Design Fundamentals
@@ -125,12 +125,55 @@ Learn what constitutes successful UI and evaluate existing interfaces for design
 - 2.1_Video_Wireframing
 - 2.2_Reading_Rapid prototyping
 - 2.3_Exercise_Create wireframe in Figma
-- Solution: Create wireframe in Figma
-- Self-Review: Create wireframe in Figma
+- Solution_Create wireframe in Figma
+- Self-Review_Create wireframe in Figma
 - 2.4_Reading_Usability test cheat sheet and template
 - 2.5_Exercise_Write-a-usability-test
-- 2.6_solution: Write a usability test
-- Self-review: Write a usability test
-- 2.5_Video_Module summary: Applied design fundamentals
-- Module quiz: Design and test
+- 2.6_solution_Write a usability test
+- Self-review_Write a usability test
+- 2.5_Video_Module summary_Applied design fundamentals
+- Module quiz_Design and test
 - Additional Resources
+
+
+## week4 Designing your UI
+
+### Designing your UI
+
+Learners will create, share and test their UI design following best practice
+
+### 1.Enhancing your design
+
+- 1.1_Video_Make it beautiful
+- 1.2_Reading_Design elements principles
+- 1.3_Video_Stylize High-fidelity design
+- 1.4_Exercise_Design a component in Figma
+- 1.4_Exercise_Solution_Design a component in Figma
+- Quiz_Self-review_Component Design
+- 1.5_Reading_Mood boards in design
+- Knowledge check_Enhancing your design
+- Reading_Additional resources
+
+### 2.Design Systems
+
+- 2.1_Video_What are design systems?
+- 2.2_Reading_Design systems
+- 2.3_Video_Design systems in Figma
+- 2.4_Exercise_Interactive component design
+- 2.4_Exercise_Solution_Interactive component design
+- 2.5_Self-review_Interactive component design
+- Knowledge check_Design Systems
+- Reading_Additional resources
+
+### 3.Prototyping, Sharing and testing your designs
+
+- 3.1_Video_Moving from design to prototyping
+- 3.2_Reading_Micro-interactions and micro-animations
+- 3.3_Video_Animate and test your prototype
+- 3.4_Video_Case Study_How Meta uses micro interactions
+- 3.5_Exercise_High-fidelity design prototype
+- 3.5_Exercise_Solution_High-fidelity design prototype
+- Self-review_High-fidelity design prototype
+- 3.6_Video_Module summary_Designing your UI
+- Quiz_Design and test
+- Reading_Additional resources
