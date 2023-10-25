@@ -177,3 +177,22 @@ Learners will create, share and test their UI design following best practice
 - 3.6_Video_Module summary_Designing your UI
 - Quiz_Design and test
 - Reading_Additional resources
+
+
+## week5 Course summary and final assessment
+
+### 1.Graded Assessment
+
+- 1.1_Video_Course-Recap-for-Principles-of-UX-and-UI
+- 1.2_Reading_About-the-final-assessment
+- 1.3_Exercise_Booking-a-table-on-the-Little-Lemon-website
+- Assignment_Booking-a-table-on-the-Little-Lemon-website
+- Booking-a-table-on-the-Little-Lemon-website
+- Solution:-Booking-a-table-on-the-Little-Lemon-website
+- Final-course-quiz_Principles-of-UX-and-UI
+
+### 2.Course wrap up
+
+- 2.1_Video_Congratulations,-you-have-completed-Principles-of-UX-UI-design
+- 2.2_Reading_Next-steps-after-Principles-of-UX-UI-design
+
