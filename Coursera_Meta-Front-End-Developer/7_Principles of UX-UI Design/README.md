@@ -188,7 +188,7 @@ Learners will create, share and test their UI design following best practice
 - 1.3_Exercise_Booking-a-table-on-the-Little-Lemon-website
 - Assignment_Booking-a-table-on-the-Little-Lemon-website
 - Booking-a-table-on-the-Little-Lemon-website
-- Solution:-Booking-a-table-on-the-Little-Lemon-website
+- 1.4_Solution_Booking-a-table-on-the-Little-Lemon-website
 - Final-course-quiz_Principles-of-UX-and-UI
 
 ### 2.Course wrap up
