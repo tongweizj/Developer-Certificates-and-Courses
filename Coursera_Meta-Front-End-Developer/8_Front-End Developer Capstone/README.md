@@ -14,22 +14,22 @@ This will include a brief recap of, and links to, content in the React course yo
 ### 1.Project info
 
 - 1.1_Video_Introduction to the course
-- 1.2_Reading_Course syllabus
-- 1.3_Reading_How to be successful in this course
-- 1.4_Reading_Checking your development environment
+- 1.2_Course syllabus
+- 1.3_How to be successful in this course
+- 1.4_Checking your development environment
 
 ### 2.Setting up the project
 
 - 2.1_Video_Setting up the project
-- 2.2_Reading_Recap_Version control
+- 2.2_Recap_Version control
 - 2.3_Exercise_Setting up the repository
-- 2.4_Reading_Recap_React set up
+- 2.4_Recap_React set up
 - 2.5_Exercise_Setting up the React project
 
 ### 3.Planning the UX and UI
 
 - 3.1_Video_Planning the UX and UI
-- 3.2_Reading_Recap_Principles of UX and UI
+- 3.2_Recap_Principles of UX and UI
 - 3.3_Exercise_Wirefra
 
 g the project
@@ -47,7 +47,7 @@ You will also useCSS grid and other CSS styling to set up a responsive, clear an
 ### 1.Semantic structure
 
 - 1.1_Video_Setting up a semantic HTML document
-- 1.2_Reading_Recap_Semantic HTML
+- 1.2_Recap_Semantic HTML
 - 1.3_Exercise_Setting up the HTML document
 - 1.4_Recap_Meta tags and Open Graph protocol
 - 1.5_Exercise_Adding meta tags and setting up OGP
