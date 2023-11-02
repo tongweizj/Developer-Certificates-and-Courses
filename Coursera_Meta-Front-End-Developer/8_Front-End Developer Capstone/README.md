@@ -75,13 +75,15 @@ You will also useCSS grid and other CSS styling to set up a responsive, clear an
 
 
 ## week3 Project functionality
-20h
-In this module, you'll code the table booking system using React. You'll also explore the importance of UX and form validation and write unit tests. Additionally, you'll cover accessibility and UX and UI usability evaluation.
+
+In this module, you'll code the table booking system using React. 
+You'll also explore the importance of UX and form validation and write unit tests. 
+Additionally, you'll cover accessibility and UX and UI usability evaluation.
 
 
 ### 1. Table booking system
-10h
-* 1.1_Customer table bookings
+
+* 1.1_Video_Customer table bookings
 * 1.2_Recap_State in React  
 * 1.3_Recap_Forms
 * 1.4_Exercise_Defining the Bookings page
@@ -90,7 +92,7 @@ In this module, you'll code the table booking system using React. You'll also ex
 * 1.7_Exercise_Adding unit tests
 
 ### 2. Interacting with the API
-5h
+
 * 2.1_Querying a table booking API    
 * 2.2_Recap_Querying APIs in React  
 * 2.3_Exercise_Connecting the bookings page to the API  

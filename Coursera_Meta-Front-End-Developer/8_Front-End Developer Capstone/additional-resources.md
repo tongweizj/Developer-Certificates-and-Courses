@@ -41,15 +41,15 @@ https://help.figma.com/hc/en-us/articles/360038662654-Guide-to-components-in-Fig
 ### 1.Semantic structure
 Here is a list of lesson items from the **HTML and CSS in-depth** course that may be helpful as you continue your learning journey. These resources provide some more in-depth information on the topics covered in this module.
 
-*   [Semantic tags and why we need themOpens in a new tab](https://www.coursera.org/learn/html-and-css-in-depth/item/M4OoX)
+*   [Semantic tags and why we need them](https://www.coursera.org/learn/html-and-css-in-depth/item/M4OoX)
     
-*   [Semantic HTML cheat sheetOpens in a new tab](https://www.coursera.org/learn/html-and-css-in-depth/supplement/ZIzeF/semantic-html-cheat-sheet)
+*   [Semantic HTML cheat sheet](https://www.coursera.org/learn/html-and-css-in-depth/supplement/ZIzeF/semantic-html-cheat-sheet)
     
-*   [Semantic tags in actionOpens in a new tab](https://www.coursera.org/learn/html-and-css-in-depth/lecture/AoFb0/semantic-tags-in-action)
+*   [Semantic tags in action](https://www.coursera.org/learn/html-and-css-in-depth/lecture/AoFb0/semantic-tags-in-action)
     
-*   [MetadataOpens in a new tab](https://www.coursera.org/learn/html-and-css-in-depth/lecture/EeFw9/metadata)
+*   [Metadata](https://www.coursera.org/learn/html-and-css-in-depth/lecture/EeFw9/metadata)
     
-*   [Metadata cheat sheetOpens in a new tab](https://www.coursera.org/learn/html-and-css-in-depth/supplement/8QDS1/metadata-cheat-sheet)
+*   [Metadata cheat sheet](https://www.coursera.org/learn/html-and-css-in-depth/supplement/8QDS1/metadata-cheat-sheet)
 
 
 ### 2.Styling and responsiveness
@@ -58,25 +58,25 @@ Here is a list of resources that may be helpful as you continue your learning jo
 
 You may find it helpful to revisit the following lesson items in the **HTML and CSS in-depth** course:
 
-*   [CSS web layoutOpens in a new tab](https://www.coursera.org/learn/html-and-css-in-depth/lecture/qsWww/css-web-layout)
+*   [CSS web layout](https://www.coursera.org/learn/html-and-css-in-depth/lecture/qsWww/css-web-layout)
     
-*   [CSS units of measurementOpens in a new tab](https://www.coursera.org/learn/html-and-css-in-depth/supplement/sBxty/css-units-of-measurement)
+*   [CSS units of measurement](https://www.coursera.org/learn/html-and-css-in-depth/supplement/sBxty/css-units-of-measurement)
     
-*   [CSS gridsOpens in a new tab](https://www.coursera.org/learn/html-and-css-in-depth/lecture/VQIRo/css-grids)
+*   [CSS grids](https://www.coursera.org/learn/html-and-css-in-depth/lecture/VQIRo/css-grids)
     
-*   [Grids and Flexbox cheat sheetOpens in a new tab](https://www.coursera.org/learn/html-and-css-in-depth/supplement/A76Uo/grids-and-flexbox-cheat-sheet)
+*   [Grids and Flexbox cheat sheet](https://www.coursera.org/learn/html-and-css-in-depth/supplement/A76Uo/grids-and-flexbox-cheat-sheet)
     
-*   [Grid showcaseOpens in a new tab](https://www.coursera.org/teach/html-and-css-in-depth/KYd9Lr9AEeyUxgoSRgtsGw/content/item/lecture/b91pE/video-subtitles)
+*   [Grid showcase](https://www.coursera.org/teach/html-and-css-in-depth/KYd9Lr9AEeyUxgoSRgtsGw/content/item/lecture/b91pE/video-subtitles)
 
 
 ### 3.Adding components
 
 The following resources are additional reading materials related to adding components to your app project. These will add to the knowledge that you’ve gained in this lesson.
 
-*   [Components and propsOpens in a new tab](https://reactjs.org/docs/components-and-props.html)
+*   [Components and props](https://reactjs.org/docs/components-and-props.html)
     
-*   [Introducing JSXOpens in a new tab](https://reactjs.org/docs/introducing-jsx.html)
+*   [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
     
-*   [Styling and CSS in ReactOpens in a new tab](https://reactjs.org/docs/faq-styling.html)
+*   [Styling and CSS in React](https://reactjs.org/docs/faq-styling.html)
     
-*   [Introducing expressions in JSXOpens in a new tab](https://reactjs.org/docs/introducing-jsx.html#embedding-expressions-in-jsx)
+*   [Introducing expressions in JSX](https://reactjs.org/docs/introducing-jsx.html#embedding-expressions-in-jsx)
