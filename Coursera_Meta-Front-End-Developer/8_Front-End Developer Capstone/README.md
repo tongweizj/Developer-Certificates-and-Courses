@@ -30,9 +30,7 @@ This will include a brief recap of, and links to, content in the React course yo
 
 - 3.1_Video_Planning the UX and UI
 - 3.2_Recap_Principles of UX and UI
-- 3.3_Exercise_Wirefra
-
-g the project
+- 3.3_Exercise_Wireframing the project
 - 3.4_Exercise_Designing components
 - 3.5_Exercise_Applying design fundamentals in Figma
 - 3.6_Video_Module summary_Starting the project
