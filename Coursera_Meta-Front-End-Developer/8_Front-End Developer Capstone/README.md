@@ -98,7 +98,7 @@ Additionally, you'll cover accessibility and UX and UI usability evaluation.
 * 2.3_Exercise_Connecting the bookings page to the API  
 * 2.4_Exercise_Submitting the new booking page to the API
 * 2.5_Exercise_Update the unit tests for the API queries
-   
+
 ### 3. Improving the experience
 5h
 * 3.1_The importance of UX  

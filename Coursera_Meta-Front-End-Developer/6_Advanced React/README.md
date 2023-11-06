@@ -2,7 +2,7 @@
 
 <img src="../meta-logo.png" width=150>
 
-- This directory contains all of my assignments from the Coursera Course: [Advanced React](https://www.coursera.org/learn/advanced-react)
+- This directory contains all of my assignments from the Coursera Course_[Advanced React](https://www.coursera.org/learn/advanced-react)
 
 ## Table of Content
 
@@ -16,142 +16,140 @@
 知识点
 3. controlled and uncontrolled components
 4. 
-### Week 1: Components
+### Week 1_Components
 
 Learn how to render list and form components efficiently in React, and learn how to lift a shared state up when several components need the updated data.
 
-#### Course Introduction
+#### 1.Course Introduction
 
-- Video_Introduction to the course
-- Video_React and your career opportunites
-- Reading_Course syllabus
-- Meet and greetDiscussion Prompt
-- Reading_How to be successful in this course
-- Reading_Setting up a React project in VS Code (Optional)
-- Reading_Setting up VS code (Optional)
-- Reading_Installing Node and NPM (Optional)
-- Reading_Working with Labs in this course
-- Video_Grid layouts
+- 1.1_Video_Introduction to the course
+- 1.2_Video_React and your career opportunites
+- 1.3_Course syllabus
+- 1.4_Setting up a React project in VS Code (Optional)
+- 1.5_Setting up VS code (Optional)
+- 1.6_Installing Node and NPM (Optional)
+- 1.7_Working with Labs in this course
+- 1.8_Video_Grid layouts
 
-#### Rendering Lists in React
+#### 2.Rendering Lists in React
 
-- Video_Transforming lists in JavaScript
+- 2.1_Video_Transforming lists in JavaScript
   - `./1.demo/1.transforming-lists-in-javascript-demo`
-- Video_Render a simple list component
+- 2.2_Video_Render a simple list component
   - `./1.demo/2.render-a-simple-list-component-demo`
-- Lab_Exercise: Create a basic List component
+- 2.3_Exercise_Create a basic List component
   - `./4.exercises/1.create-a-basic-list-component`
-- Reading_Solution: Create a basic List component
-- Quiz_Self-review: Create a basic List component
-- 1.1_Video_What are Keys in React?
+- 2.4_Solution_Create a basic List component
+- Quiz_Self-review_Create a basic List component
+- 2.5_Video_What are Keys in React?
   - `2.cheat-sheets/1.1_Video_What-are-Keys-in-React.md`
-- 1.2_Video_Using Keys Within List Components
-- Quiz_Knowledge check: Rendering Lists in React
-- Reading_Additional resources
+- 2.6_Video_Using Keys Within List Components
+- Quiz_Knowledge check_Rendering Lists in React
+- Additional resources
 
-#### Forms in React
+#### 3.Forms in React
 
-- 2.1_Video_What are controlled components?
-- Reading_Controlled components vs. Uncontrolled components
-- Video_Creating a Form component in React
-- Video_Create a Controlled Form Component `./demo/5.create-a-controlled-form-component-demo`
-- Lab_Exercise: Create a registration form 
-- Reading_Solution: Create a registration form
-- Quiz_Self-review: Create a registration form
-- Quiz_Knowledge check: Forms in ReactPractice
-- Reading_Additional resources
+- 3.1_Video_What are controlled components?
+- 3.2_Controlled components vs. Uncontrolled components
+- 3.3_Video_Creating a Form component in React
+- 3.4_Video_Create a Controlled Form Component `./demo/5.create-a-controlled-form-component-demo`
+- 3.5_Exercise_Create a registration form
+- 3.6_Solution_Create a registration form
+- Quiz_Self-review_Create a registration form
+- Quiz_Knowledge check_Forms in ReactPractice
+- Additional resources
 
-#### React Context
+#### 4.React Context
 
 难度:中等
 重点:
 
 
-- Video_What you know about Props and State
-- Video_What is Context, and why is it used?
-- Lab_Exercise: Create a light-dark theme switcher
-- Reading_Solution: Create a light-dark theme switcher
-- Self-review: Create a light-dark theme switcher
-- Reading_How re-rendering works with Context
-- Quiz_Knowledge check: React ContextPractice
-- Video_Module summary: Components
-- Module quiz: Components
-- Reading_Additional resources
+- 4.1_Video_What you know about Props and State
+- 4.2_Video_What is Context, and why is it used?
+- 4.3_Exercise_Create a light-dark theme switcher
+- 4.4_Solution_Create a light-dark theme switcher
+- Self-review_Create a light-dark theme switcher
+- 4.5_How re-rendering works with Context
+- Quiz_Knowledge check_React ContextPractice
+- 4.6_Video_Module summary_Components
+- Module quiz_Components
+- Additional resources
 
-### Week 2: React Hooks and Custom Hooks
+### Week 2_React Hooks and Custom Hooks
 
-难度: 高
+难度_高
 重点:
 
 React Hooks and Custom Hooks53  of videos left 45m of readings left1 graded assessment leftLearn to use all the common hooks in React, and how to put them to use within your application. Then, build your own custom hooks.----
 
-#### Getting started with hooks
+#### 1.Getting started with hooks
 
-- Video_Working with React hooks
+- 1.1_Video_Working with React hooks
 
 ##### useState
 
-- 1.1_Video_Revising useState hook
-- 1.2_Reading_working with complex data in useState
-- Video_Using the useState hook
-- Lab_Exercise: Managing state within a component
-- Reading_Solution:  Managing state within a component
-- Self-review: Managing state within a component
+- 1.2_Video_Revising useState hook
+- 1.3_working with complex data in useState
+- 1.4_Video_Using the useState hook
+- 1.5_Exercise_Managing state within a component
+- 1.6_Solution_Managing state within a component
+- Self-review_Managing state within a component
 
 ##### side effects
 
-- 1.3_Video_What are side effects?
+- 1.7_Video_What are side effects?
 
 ##### useEffect
 
-- Reading_What is the useEffect hook?
-- Video_Using the useEffect hook
-- Knowledge check: Getting started with hooks
-- Reading_Additional resources
+- 1.8_What is the useEffect hook?
+- 1.9_Video_Using the useEffect hook
+- 1.10_Knowledge check_Getting started with hooks
+- Additional resources
 
-#### Rules of Hooks and Fetching Data with Hooks
+#### 2.Rules of Hooks and Fetching Data with Hooks
 
 - 2.1_Video_What are the rules of hooks?
 
 ##### fetching
 
 - 2.2_Video_What you need to know before fetching data
-- 2.3_Reading_Data fetching using hooks
-- Reading_Video_Fetching data – Putting it all together
+- 2.3_Data fetching using hooks
+- 2.4_Video_Fetching data – Putting it all together
 
-- Lab_Exercise: Can you fetch data?  
-- Reading_Solution: Can you fetch data?
-- Quiz_Self-review: Can you fetch data?
-- Video_APIs
-- Quiz_Knowledge check: Rules of Hooks and Fetching Data with Hooks
-- Reading_Additional resources
+- 2.4_Exercise_Can you fetch data?  
+- 2.5_Solution_Can you fetch data?
+- Quiz_Self-review_Can you fetch data?
+- 2.6_Video_APIs
+- Quiz_Knowledge check_Rules of Hooks and Fetching Data with Hooks
+- Additional resources
 
-#### Advanced hooks
+#### 3.Advanced hooks
 
 ##### useReducer
 
 - 3.1_Video_What-is-useReducer-and-how-it-differs-from-useState
-- Reading_When to choose useReducer vs useState
+- 3.2_When to choose useReducer vs useState
 
 ##### useRef
 
-- Video_useRef to access underlying DOM
+- 3.4_Video_useRef to access underlying DOM
 
 ##### Custom hooks
 
-- Reading_Custom hooks
-- Lab_Exercise: Create your own custom hook, usePrevious
-- Reading_Solution:  Create your own custom hook, usePrevious
-- Quiz_Self-review: Create your own custom hook, usePrevious
+- 3.4_Custom hooks
+- 3.5_Exercise_Create your own custom hook, usePrevious
+- 3.6_Solution_Create your own custom hook, usePrevious
+- Quiz_Self-review_Create your own custom hook, usePrevious
 
 ##### 总结
 
-- Quiz_Knowledge check: Advanced Hooks
-- Video_Module summary: React Hooks and Custom Hooks
-- Module quiz: React Hooks and Custom Hooks
-- Reading_Additional resources
+- Quiz_Knowledge check_Advanced Hooks
+- 3.7_Video_Module summary_React Hooks and Custom Hooks
+- 3.8_Module quiz_React Hooks and Custom Hooks
+- Additional resources
 
-### Week 3: JSX and testing
+### Week 3_JSX and testing
 
 这个章节是对整个知识点做收尾的.
 把很多在实际工作中需要知识到的信息都集中到了一起.
@@ -171,43 +169,43 @@ Learning Objectives
 - 1.1_Video_JSX-Components-and-Elements
 - Video_The importance of performance to software development
 - 1.2_Video_Component-composition-with-children
-- 1.3_Reading_Types of Children
+- 1.3_Types of Children
 - Video_Manipulating children dynamically in JSX
-- Lab_Exercise: Build a Radio Group Component
-- Reading_Solution: Build a Radio Group Component
-- Quiz_Self-review: Build a Radio Group Component
+- Lab_Exercise_Build a Radio Group Component
+- Solution_Build a Radio Group Component
+- Quiz_Self-review_Build a Radio Group Component
 - 1.4_Video_Spread-Attributes
-- Quiz_Knowledge check: JSX
-- Reading_Additional resources
+- Quiz_Knowledge check_JSX
+- Additional resources
 
 #### 2.Reusing behavior
 
 - 2.1_Video_Cross-cutting-concerns-in-React
-- Reading_Higher-order components
+- Higher-order components
 - Video_Create a HOC for cursor position
 - Video_Render props
-- Lab_Exercise: Implementing scroller position with render props
-- Reading_Solution: Implementing scroller position with render props
-- Quiz_Self-review: Implementing scroller position with render props
-- Knowledge check: Reusing behavior
-- Reading_Additional resources 
+- Lab_Exercise_Implementing scroller position with render props
+- Solution_Implementing scroller position with render props
+- Quiz_Self-review_Implementing scroller position with render props
+- Knowledge check_Reusing behavior
+- Additional resources 
 
 
 #### 3.Integration tests with React Testing Library
 
 - Video_Why React Testing Library 
 - Video_Writing the first test for your form
-- Lab_Exercise: Writing more test scenarios
-- Reading_Solution: Writing more test scenarios
-- Quiz_Self-review: Writing more test scenariosPractice 
-- 3.1_Reading_Introduction-to-continuous-integration
+- Lab_Exercise_Writing more test scenarios
+- Solution_Writing more test scenarios
+- Quiz_Self-review_Writing more test scenariosPractice 
+- 3.1_Introduction-to-continuous-integration
 - Video_Style guides
-- Quiz_Knowledge check: Automated testing
-- Video_Module summary: JSX and Testing
-- Module quiz: JSX and Testing
-- Reading_Additional resources
+- Quiz_Knowledge check_Automated testing
+- Video_Module summary_JSX and Testing
+- Module quiz_JSX and Testing
+- Additional resources
 
-### Week 4: Final project
+### Week 4_Final project
 
 Final project
 In this module, you will be assessed on the key skills covered in the course and create a project to add to your portfolio.
@@ -215,19 +213,19 @@ In this module, you will be assessed on the key skills covered in the course and
 #### Graded assessment
 
 - 1.1_Video_Course-recap-Advanced-React
-- 1.2_Reading_About-the-final-project
-- Reading_Popular external libraries
+- 1.2_About-the-final-project
+- Popular external libraries
 - Lab_Create your portfolio
 - Review a peer's portfolio
-- Video_Solution walk-through: Portfolio
-- Reading_Solution code
-- Final graded quiz: Advanced React
+- Video_Solution walk-through_Portfolio
+- Solution code
+- Final graded quiz_Advanced React
 
 #### Course wrap-up
 
 - Video_Congratulations, you have completed Advanced React!
 - Reflect on learning.
-- Reading_Next steps
+- Next steps
 
 ## Proof of Completion
 
