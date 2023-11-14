@@ -142,7 +142,6 @@ React Hooks and Custom Hooks53  of videos left 45m of readings left1 graded asse
 - 3.7_Video_Module summary_React Hooks and Custom Hooks
 - Module quiz_React Hooks and Custom Hooks
 
-
 ## Week 3_JSX and testing
 
 这个章节是对整个知识点做收尾的.
@@ -185,7 +184,7 @@ Learning Objectives
 
 ### 3.Integration tests with React Testing Library
 
-- 3.1_Video_Why React Testing Library 
+- 3.1_Video_Why React Testing Library
 - 3.2_Video_Writing the first test for your form
 - 3.3_Exercise_Writing more test scenarios
 - 3.4_Solution_Writing more test scenarios
