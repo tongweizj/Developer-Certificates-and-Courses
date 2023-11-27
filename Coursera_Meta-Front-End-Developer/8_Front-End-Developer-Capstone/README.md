@@ -11,6 +11,7 @@ This will include a brief recap of, and links to, content in the React course yo
 2. 实现订桌服务
 3. 表格验证
 4. 单元测试
+
 ### 1.Project info
 
 - 1.1_Video_Introduction to the course
@@ -120,11 +121,11 @@ In this module, you’ll have the opportunity to perform a self-review of your p
 - 1.1_Course recap_Capstone Project 
 - 1.2_About the final project assessment
 - 1.3_Peer-graded Assignment-Booking a table on the Little Lemon website
-- 1.4_Solution_Booking a table on the Little Lemon websiteReading•. Duration_30  30 
+- 1.4_Solution_Booking a table on the Little Lemon website
 - 1.5_Graded Assignment
 
 ### 2.Course wrap
 
 - 2.1_Congratulations, you have completed the Capstone Project
-- 2.2_Next steps
+
 
