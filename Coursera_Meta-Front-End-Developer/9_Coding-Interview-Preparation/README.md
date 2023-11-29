@@ -12,7 +12,7 @@ In this introductory module, you'll learn about a coding interview, what it coul
 
 ### 2.The coding interview
 
-- 2.1_hat is a coding interview?
+- 2.1_what is a coding interview?
 - 2.2_What type of interviews might you expect
 - 2.3_Communication
 - 2.4_What to expect from a technical interview
