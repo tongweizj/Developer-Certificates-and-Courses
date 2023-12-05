@@ -22,7 +22,7 @@ In this introductory module, you'll learn about a coding interview, what it coul
 
 ### 3.Introduction to Computer Science
 
-- 3.1_Binary
+- 3.1_Binary 二进制
 - 3.2_Working in binary
 - 3.3_Memory
 - 3.4_Defining solutions
