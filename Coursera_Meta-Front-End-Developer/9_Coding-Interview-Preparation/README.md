@@ -37,30 +37,30 @@ The second module of this course covers data structures. You'll learn about the 
 
 ### Basic Data Structures
 
-- Basic data structures
-- Strings
-- Integers
-- Booleans
-- Arrays
-- Objects
+- 1.1_Basic data structures
+- 1.2_Strings
+- 1.3_Integers
+- 1.4_Booleans
+- 1.5_Arrays
+- 1.6_Objects
 
 ### Collection Data Structures
 
-- Lists and sets
-- Lists and sets in different programming languages
-- Stacks and queues
-- Stacks and queues in different programming languages
-- Trees
-- Trees in different programming languages
+- 2.1_Lists and sets
+- 2.2_Lists and sets in different programming languages
+- 2.3_Stacks and queues
+- 2.4_Stacks and queues in different programming languages
+- 2.5_Trees
+- 2.6_Trees in different programming languages
 
 ### Advanced Data Structures
 
-- Hash tables
-- Hash tables in different programming languages
-- Heaps
-- Graphs
-- Heaps and graphs in different programming languages
-- Module summary: Introduction to data structures
+- 3.1_Hash tables
+- 3.2_Hash tables in different programming languages
+- 3.3_Heaps
+- 3.4_Graphs
+- 3.5_Heaps and graphs in different programming languages
+- 3.6_Module summary: Introduction to data structures
 
 ## Week3-Introduction to Algorithms
 
