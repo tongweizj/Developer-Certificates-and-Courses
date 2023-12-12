@@ -18,3 +18,11 @@
     
 -   Memory can be stored side-by-side or spread out throughout your computer. For some insights on this, you might be interested in reading more about [heap versus stack memoryOpens in a new tab](https://courses.engr.illinois.edu/cs225/fa2022/resources/stack-heap/)
     
+## week2
+Here are some additional resources for learning more about basic data structures:
+
+-   This [Array basicsOpens in a new tab](https://www.cs.fsu.edu/~myers/c++/notes/arrays.html) article provides an excellent write-up on arrays and how they are initialized and used.
+    
+-   This article called [Immutable data structures in F#Opens in a new tab](https://www.compositional-it.com/news-blog/immutable-data-structures-in-f/) provides an analysis of mutable versus immutable data structures:
+    
+-   This article about [First-class objectsOpens in a new tab](https://isaaccomputerscience.org/concepts/prog_func_first_class_objects?examBoard=all&stage=all) outlines what a first-class object is
