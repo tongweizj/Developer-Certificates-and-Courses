@@ -5,12 +5,11 @@
 共82小时
 
 ### Unit 1_Personal Resilience	
-
-个人复原力
+个人韧性
 Suggested time_28 Hours
 
 1.0_Introduction 简介
-1.1_Learning and resilience 学习和适应能力
+1.1_Learning and resilience 学习和韧性
 1.2_Everyone has a story 每个人都有一个故事
 1.3_Writing a personal essay 写一篇个人论文
 1.5 Assignment_Personal essay (10%) 作业：个人论文（10%）
@@ -53,3 +52,35 @@ Test Suggested time_ 4 Hours
 
 - Practice Test (2 Hours)
 - Final Test (2 Hours) (15%)
+
+
+## 学习策略
+
+### 第1步，泛读文章
+
+完成如下工作
+1. 教材 markdown 化
+2. 该翻译的地方完成翻译
+3. 找出重要的单词
+4. 在notebook 文件中，整理好需要完成的课堂作业
+
+### 第2步，精读文章
+
+完成如下工作
+1. 做好笔记
+
+### 第3步，作业
+
+1. 完成notebook 等，课堂作业
+
+### 第4步，复习
+1. 完成课外阅读
+2. 完善笔记
+3. 完成课堂练习
+
+### 文档结构
+
+1.1_文章标题
+1.1_notebook 课堂作业
+1.1_note 个人笔记
+1.1_resource_ 课外阅读
