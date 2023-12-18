@@ -62,6 +62,7 @@ The second module of this course covers data structures. You'll learn about the 
 - 3.5_Heaps and graphs in different programming languages
 - 3.6_Module summary: Introduction to data structures
 
+
 ## Week3-Introduction to Algorithms
 
 In this module, you'll learn about algorithms. You'll cover common approaches to sorting and searching with algorithms. You’ll also explore the time and space complexity aspects of both sorting and searching. You will then learn more about working with algorithms, demonstrating how to visualize and problem solve with algorithmic approaches, such as divide and conquer, greedy algorithms and dynamic programming.
