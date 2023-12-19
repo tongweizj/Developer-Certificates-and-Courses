@@ -95,3 +95,5 @@ In this module, you will be assessed on the key concepts and topics covered in t
 ### Course wrap up
 
 - Course wrap up
+
+https://news.umanitoba.ca/those-people-our-people/
