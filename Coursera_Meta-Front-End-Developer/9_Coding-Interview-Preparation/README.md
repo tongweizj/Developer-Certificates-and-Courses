@@ -69,19 +69,18 @@ In this module, you'll learn about algorithms. You'll cover common approaches to
 
 ### Sorting and Searching
 
-- Sorting Algorithms
-- Time and space complexity in sorting algorithms
-- Searching Algorithms
-- Time and space complexity in search algorithms
+- 1.1_Sorting Algorithms
+- 1.2_Time and space complexity in sorting algorithms
+- 1.3_Searching Algorithms
+- 1.4_Time and space complexity in search algorithms
 
 ### Working with Algorithms
 
--  Divide and conquer
--  Recursion
--  Dynamic programming
--  Greedy algorithms
--  Where can you use algorithms?
--  Module summary: Introduction to algorithms
+-  2.1_Divide and conquer
+-  2.2_Recursion
+-  2.3_Dynamic programming
+-  2.4_Greedy algorithms
+-  2.5_Module summary: Introduction to algorithms
 
 ## Week4-Final project
 
