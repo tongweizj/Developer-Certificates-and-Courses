@@ -18,85 +18,50 @@ After completing this module, you will be able to:
 
 - 1.1_Introduction to Programming with JavaScript
 - 1.2_How is JavaScript used in the real world?
-- 1.3_Reset your deadline to unlock the assignments
-- 1.4_Course syllabus
-- 1.5_How to be successful in this course
-- 1.6_How to Position Yourself for a New Career
-- 1.7_How to uncover job opportunities
-- 1.8_Setting up VS code (Optional)
+- 1.3_Course syllabus
+- 1.4_How to be successful in this course
+- 1.5_How to Position Yourself for a New Career
+- 1.6_How to uncover job opportunities
+- 1.7_Setting up VS code (Optional)
 
 ### 2.Welcome to Programming
 
 - 2.1_Introduction to programming
-- 2.2_Why JavaScript?   
+- 2.2_Why JavaScript?
 - 2.3_Programming in JavaScript
 - 2.4_Writing your first Javascript code
 - 2.5_Variables
-- 2.6_How to use "scrims" in this course
-- 2.7_Exercise: Declaring variables - Part 1
-- 2.8_Exercise: Declaring variables - Part 2
-- 2.9_Self review: Declaring variables
-- 2.10_Data types
-- 2.11_Operators
-- 2.12_Numbers
-- 2.13_Strings
-- 2.14_Booleans
-- 2.15_Operators in depth - Part 1
-- 2.16_Operators in depth - Part 2
-- 2.17_Exercise: Advanced use of operators - Part 1
-- 2.18_Exercise: Advanced use of operators - Part 2
-- 2.19_Self Review - Advanced use of operators
-- 2.20_Knowledge check: Welcome to Programming
-- 2.21_JavaScript improvements
-- 2.22_Additional resources
+- 2.6_Data types
+- 2.7_Operators
+- 2.8_Numbers
+- 2.9_Strings
+- 2.10_Booleans
+- 2.10_JavaScript improvements
+
 
 ### 3.Conditionals and Loops
 
 - 3.1_Writing statements
-- 3.1_Working with conditional statements
-- 3.1_Conditional examples
-- 3.1_Exercise: Practice conditional statements_Part 1
-- 3.1_Exercise: Practice conditional statements_Part 2
-- 3.1_Self review: Practice conditional statements
-- 3.1_Looping constructs
-- 3.1_For loop
-- 3.1_While loop
-- 3.1_Exercise: Repetitive tasks with loops
-- 3.1_Self review: Repetitive tasks with loops
-- 3.1_Nested loops
-- 3.1_Exercise: Loops and nested loops
-- 3.1_Uses of loops
-- 3.1_Exercise: Working with conditionals and loops_Part 1
-- 3.1_Exercise: Working with conditionals and loops_Part 2
-- 3.1_Self review: Working with conditionals and loops
-- 3.1_Knowledge check_Conditionals and loops
-- 3.1_Module summary: Introduction to JavaScript
-- 3.1_Module quiz: Introduction to JavaScript
-- 3.1_Additional resources for Conditionals and Loops
+- 3.2_Working with conditional statements
+- 3.3_Looping constructs
+- 3.4_For loop
+- 3.5_While loop
+- 3.6_Nested loops
+- 3.7_Uses of loops
+- 3.8_Module summary: Introduction to JavaScript
+
 ## Week 2: The Building Blocks of a Program
 
 ### 1.Arrays, Objects and Functions
 
 - 1.1_Functions
 - 1.2_Storing data in arrays
-- 1.3_Building and calling functions
-- 1.4_Exercise: Practicing with functions
-- 1.5_Self review: Practicing with functions
-- 1.6_Introduction to objects
-- 1.7_Object Literals and the Dot Notation
-- 1.8_Object Literals and the Brackets Notation
-- 1.9_Arrays are Objects
-- 1.10_Math object cheat sheet
-- 1.11_Math object
-- 1.12_A closer look at strings
-- 1.13_String cheat sheet
-- 1.14_Exercise: Creating arrays
-- 1.15_Exercise: Creating objects
-- 1.16_Self review: Creating arrays and objects
-- 1.17_Object Methods
-- 1.18_Typeof
-- 1.19_Knowledge check: Arrays, Objects and Functions
-- 1.20_Additional resources
+- 1.3_Introduction to objects
+- 1.4_Math object cheat sheet
+- 1.5_Math object
+- 1.6_A closer look at strings
+- 1.7_String cheat sheet
+- 1.8_Typeof
  
 ### 2.Error Handling
 Here you'll learn how to use objects, arrays and functions. In addition, you will learn about the most common built-in methods, and the difference between undefined, null and empty strings. And you'll explore both error handling and defensive programming.
@@ -112,16 +77,9 @@ After completing this module, you will be able to:
 
 - 2.1_Bugs and errors
 - 2.2_Try catch blocks
-- 2.3_Syntax, logical and runtime errors
-- 2.4_Undefined, null and empty values
-- 2.5_Exercise: Error prevention
-- 2.6_Self review: Error prevention
-- 2.7_Exercise: Defensive programming
-- 2.8_Self review: Defensive programming
-- 2.9_Knowledge check: Error handling
-- 2.10_Module summary: The Building Blocks of a Program
-- 2.11_Module quiz: The Building Blocks of a Program
-- 2.12_Additional resources
+- 2.3_Undefined, null and empty values
+- 2.4_Module summary- The Building Blocks of a Program
+
 
 ## Week 3: Programming Paradigms
 This module is about functional programming and the object oriented programming paradigm. You will learn what scope is in JavaScript. You'll explore the differences between var, let and const. And you'll learn how to use classes and inheritance in object oriented programming. Additionally, you'll explore how to use write JavaScript using modern features like spread and rest. You will build code that can manipulate the DOM and handle events. And you will use JSON in JavaScript.
@@ -135,6 +93,52 @@ After completing this module, you will be able to:
 - Write JavaScript code using more modern features like spread, rest, template strings and modules
 - Build code that manipulates the DOM and handles events
 - Use JSON in JavaScript
+###  1.Introduction to Functional Programming
+
+- 1.1_Introduction to functional programming    
+- 1.2_Return values from functions
+- 1.3_Function calling and recursion
+- 1.4_Introduction to scope
+- 1.5_The functional programming paradigm
+- 1.6_Visual Studio Code on Coursera
+- 1.7_Building a functional program
+- 1.8_Scoping with var, let and const
+- 1.9_Comparing var, let and const
+
+
+### Introduction to Object-Oriented Programming
+
+- 2.1_Introduction to object-oriented programming
+- 2.2_Classes    
+- 2.3_Object Oriented Programming principles
+- 2.4_Inheritance
+- 2.5_Designing an OO Program
+
+
+### 3.Advanced JavaScript Features
+
+- 3.1_De-structuring arrays and objects
+- 3.2_For-of loops and objects
+- 3.3_Working with template literals
+- 3.4_Data Structures
+- 3.5_Spread operator
+- 3.6_Rest operator
+
+
+### 4. JavaScript in the Browser​
+
+- 4.1_JavaScript modules
+- 4.2_JavaScript DOM manipulation
+- 4.3_JavaScript interactivity
+- 4.4_JavaScript selectors
+- 4.5_Event handling
+- 4.6_Exercise- Web page content update
+- 4.7_Exercise- Capture Data
+- 4.8_Solution- Capture Data
+- 4.9_Moving data around on the web
+- 4.10_JavaScript Object Notation - JSON
+- 4.11_Module summary-Programming Paradigms
+
 
 ## Week 4: Testing
 
@@ -149,14 +153,27 @@ After completing this module, you will be able to:
 - List the three most prevalent kinds of testing
 - Demonstrate how to code a simple unit test in Jest
 
+
+
+- 1.1_Other JavaScript environments - node & NPM
+- 1.2_Installing Node and NPM
+- 1.3_What is testing?
+- 1.4_Types of testing
+- 1.5_Introduction to Jest
+- 1.6_Writing tests with Jest
+- 1.7_TDD (Test-Driven Development)
+- 1.8_Module summary-Testing
+
+
+
 ## Week 5: End-of-Course Graded Assessment
 
 In the final module, you'll learn about the graded assessment. After you complete the individual units in this module, you'll synthesize the skills you gained from the course to create code for the "Little lemon receipt maker ".
 
 You'll also have to opportunity to reflect on the course content and the learning path that lies ahead.
 
-
-
+- 1.1_Recap Programming with JavaScript
+- 1.2_Congratulations on completing the course Programming with JavaScript
 ## Proof of Completion
 
 <img src="./certificate.png" width=800>
