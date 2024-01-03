@@ -1,15 +1,7 @@
 # React Basics
 
-<img src="../meta-logo.png" width=150>
-
 - This directory contains all of my assignments from the Coursera Course: [React Basics](https://www.coursera.org/learn/react-basics)
-
-## Table of Content
-
-
-
-
-### Week 1: React Components
+## Week 1: React Components
 
 In this module you will explore the basic structure and use of the React.js library. You will learn how to produce single page web applications using React components and to use JSX to style them.
 
@@ -26,158 +18,136 @@ In this module you will explore the basic structure and use of the React.js libr
 - 使用和操纵道具和组件来影响视觉效果
 - 描述如何在应用程序中使用资产来应用样式和功能组件
 
-#### 1.Course Introduction
+### 1.Course Introduction
 
-- 1.1_Video_Introduction to the course: React Basics
-- 1.2_Video_How-is-React-used-in-the-real-world?
-- Discussion_What do you hope to learn?
-- 1.3_Reading_Course-syllabus-for-React-Basics
-- Reading_How to be successful in this course
-- 1.4_Reading_Before-you-learn-React
-- 1.5_Reading_JavaScript modules, imports - exports
-- Reading_Working with Labs in this course
-- Reading_Additional
-- 1.6_Reading_Setting up a React project in VS Code
+- 1.1_Introduction to the course-React Basics
+- 1.2_How-is-React-used-in-the-real-world?
+- 1.3_Course-syllabus-for-React-Basics
+- 1.4_Before-you-learn-React
+- 1.5_JavaScript modules-imports - exports
+- 1.6_Setting up a React project in VS Code
 
 #### 2.React Components and Where They Live
 
-- 2.1_Video_Why-React?
-- 2.2_Video_React.js-overview
-- 2.3_Video_Introduction-to-functional-components
-- Video_Creating React components
-- 2.4_Reading_Transpiling-JSX
-- Lab_Your first component
-- Reading_Solution: Your first component
-- Self review: Your first component-Practice Quiz-
-- Video_The React project structure
-- 2.5_Reading_Customizing-the-project
-- 2.6_Video_Video_Importing-components
-- Lab_Creating and importing components
-- Self review: Creating and importing components-Practice Quiz-
-- Knowledge check: React components and where they live-Practice Quiz-
-- Reading_Additional resources for React components and where they live
+- 2.1_Why-React
+- 2.2_React.js-overview
+- 2.3_Introduction-to-functional-components
+- 2.4_Creating React components
+- 2.5_Transpiling-JSX
+- 2.6_The React project structure
+- 2.7_Customizing-the-project
+- 2.8_Importing-components
+- Additional resources for React components and where they live
 
 #### 3.Component Use and Styling
 
-- Video_Principles of components: Props
-- Reading_Dissecting props
-- Video_Using props in components
+- 3.1_Principles of components-Props
+- 3.2_Using props in components
 - Lab_Passing props
-- Reading_Solution: Passing props
-- Self review: Passing props-Practice Quiz-
-- Video_Introducing JSX
-- Reading_Props and children
-- 3.2_Reading_Styling JSX elements
-- Video_Practical styling
-- 3.1_Reading_JSX syntax and the arrow function
-- Video_Embedded JSX expressions
-- Reading_Ternary operators and functions in JSX
-- Reading_Expressions as props
-- Video_Embedding in attributes
+- Solution: Passing props
+- 3.3_Introducing JSX
+- 3.4_Props and children
+- 3.5_Styling JSX elements
+- 3.6_Practical styling
+- 3.7_JSX syntax and the arrow function
+- 3.8_Embedded JSX expressions
+- 3.9_Ternary operators and functions in JSX
+- 3.10_Expressions as props
+- 3.11_Embedding in attributes
 - Lab_Multiple components
-- Reading_Solution: Multiple components
-- Self review: Multiple components-Practice Quiz-
-- Video_Module summary
-- Module Quiz
-- Reading_Additional resources
+- Solution: Multiple components
+- 3.12_Module summary
 
-
-
-
-### Week 2: Data and State
+## Week 2: Data and State
 
 In this module you will explore the concept and practical use of state and stage-management. 
 You will also gain knowledge on how to handle events and the ability to dynamically change content on a web page. 
 
-#### Dynamic events and how to handle them
+### 1.Dynamic events and how to handle them
 
-- 1.1_Video_Types-of-events
-- Reading_Eventful issues
-- Video_Common event handling
+- 1.1_Types-of-events
+- 1.2_Eventful issues
+- 1.3_Common event handling
 - Knowledge check_Events and errors
-- 1.2_Video_Syntax-for-handlers
-- 1.3_Reading_Event handling and embedded expressions
-- Video_User events
+- 1.4_Syntax-for-handlers
+- 1.5_Event handling and embedded expressions
+- 1.6_User events
 - Lab_Dynamic events
-- Reading_Solution: Dynamic events
-- Quiz_Self review: Dynamic events
-- Quiz_Knowledge check: Dynamic events and how to handle them
-- Reading_Additional resources
+- Solution: Dynamic events
 
-#### Data and Events
 
-- 2.1_Video_Parent-child data flow
-- 2.2_Reading_Data flow in React
-- 2.3_Video_Children and data
+### 2.Data and Events
+
+- 2.1_Parent-child data flow
+- 2.2_Data flow in React
+- 2.3_Children and data
 - Knowledge check: Data flow
-- 2.4_Video_What are hooks?
-- Reading_Using hooks
-- Video_What is state?
-- Video_Observing state
+- 2.4_What are hooks?
+- 2.5_Using hooks
+- 2.6_What is state?
+- 2.7_Observing state
 - Knowledge Check: State the concept
-- 2.5_Video_Managing state
-- Reading_Prop drilling
-- 2.6_Video_React state management
+- 2.8_Managing state
+- 2.9_Prop drilling
+- 2.10_React state management
 - Knowledge check: Passing state
-- Video_Stateful vs. stateless
+- 2.11_Stateful vs. stateless
 - Managing state in React
-- Reading_Solution: Managing state in React
+- Solution: Managing state in React
 - Self review: Managing state in React
 - Knowledge check: State or stateless
-- Video_Module summary
+- 2.12_Module summary
 - Module quiz: Data and state
-- Reading_Additional resources
+- Additional resources
 
 
-### Week 3: Navigation, Updating and Assets in React.js
+## Week 3: Navigation, Updating and Assets in React.js
 
 In this module you will explore the basics of single and multi-page navigation, as well as the conditional rendering or changing of content in response to user status or choice. 
 
 #### 1.Linking and Routing
 
-- 1.1_Video_Basic Types of navigation
+- 1.1_Basic Types of navigation
 - 1.2_Navigation
-- Video_The navbar
+- 1.3_The navbar
 - Lab_Creating a route 
 - Solution: Creating a route
 - Quiz_Self review: Creating a route
 - Quiz_Knowledge check: Navigation
-- Video_Conditional-rendering
-- 1.3_Applying conditional rendering
--  Conditional components
-- Video_Single view conditional updates
+- 1.4_Conditional-rendering
+- 1.5_Applying conditional rendering
+- 1.6_Conditional components
+- 1.7_Single view conditional updates
 - Quiz_Knowledge check: Conditional updates
 -  Additional resources
 
-
 #### 2.Using Assets in React
 
-- 2.1_Video_What is an asset and where does it live? 
+- 2.1_What is an asset and where does it live? 
 - 2.2_Bundling-assets
-- Video_Using embedded assets
+- 2.3_Using embedded assets
 - Lab_Displaying images
 - Solution: Displaying images
 - Quiz_Self review: Displaying images
-- Video_Audio and video
--  Media packages
-- Create an audio / video componentVideo
+- 2.4_Audio and video
+- 2.5_Media packages
+- 2.6_Create an audio / video componentVideo
 - Lab_Song selection
 -  Solution: Song selection
 - Quiz_Self review: Song selection
-- Discussion_What challenges did you encounter when creating your song selection feature?
-- Video_Module summary: navigation, updating and assets in React.js
+- 2.7_Module summary: navigation, updating and assets in React.js
 - Module quiz: navigation, updating and assets in React.js
 - Additional resources
 
 
-### Week 4: Your first React app
+## Week 4: Your first React app
 
 #### 1.Calculator app
 
-- 1.1_Course recap: React Basics
-- 1.2_About this graded assessment: Calculator app
-- 1.3_Solution: Build a calculator app
-- 1.4_Exemplar: Build a calculator app
+- 1.1_Course recap-React Basics
+- 1.2_About this graded assessment- Calculator app
+- 1.3_Solution- Build a calculator app
+- 1.4_Exemplar- Build a calculator app
 
 
 ## Proof of Completion
