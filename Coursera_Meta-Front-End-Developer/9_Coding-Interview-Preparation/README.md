@@ -80,7 +80,7 @@ In this module, you'll learn about algorithms. You'll cover common approaches to
 -  2.2_Recursion
 -  2.3_Dynamic programming
 -  2.4_Greedy algorithms
--  2.5_Module summary: Introduction to algorithms
+-  2.5_Module summary- Introduction to algorithms
 
 ## Week4-Final project
 
@@ -88,7 +88,7 @@ In this module, you will be assessed on the key concepts and topics covered in t
 
 ### Final graded assessment
 
--  Course recap
+-  1.Course recap
 -  About the final graded assessment
 
 ### Course wrap up

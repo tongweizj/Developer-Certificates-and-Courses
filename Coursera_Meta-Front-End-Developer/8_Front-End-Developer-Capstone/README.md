@@ -14,18 +14,19 @@ This will include a brief recap of, and links to, content in the React course yo
 
 ### 1.Project info
 
-- 1.1_Video_Introduction to the course
+- 1.1_Introduction to the course
 - 1.2_Course syllabus
 - 1.3_How to be successful in this course
 - 1.4_Checking your development environment
 
 ### 2.Setting up the project
 
-- 2.1_Video_Setting up the project
+- 2.1_Setting up the project
 - 2.2_Recap_Version control
 - 2.3_Exercise_Setting up the repository
 - 2.4_Recap_React set up
 - 2.5_Exercise_Setting up the React project
+- 2.6_Exercise: Committing the project
 
 ### 3.Planning the UX and UI
 
@@ -34,7 +35,7 @@ This will include a brief recap of, and links to, content in the React course yo
 - 3.3_Exercise_Wireframing the project
 - 3.4_Exercise_Designing components
 - 3.5_Exercise_Applying design fundamentals in Figma
-- 3.6_Video_Module summary_Starting the project
+- 3.6_Module summary_Starting the project
 - Module Quiz_Starting the Project
 
 
