@@ -11,7 +11,7 @@
 -   Create and test a form (solution)
 - Practice Quiz:  Self review:  Create and test a form
 	- `./4quiz/self-review_create-and-test-a-form/`
-- Video:  [Radio buttons](3.5_Radio-buttons.md)
+- Video:  [Radio buttons](3.7_Radio-buttons.md)
 	- demo `1.demos/5.radio=buttons=demo`
 -    Cheat sheet:  Interactive form elements
 - Video: Using interactive form elements
@@ -31,7 +31,7 @@
 
 
 ## 4. Media Elements
-- [[4.1_Vide_Video-and-audio]]
+- [[4.1_Video-and-audio]]
 - [[4.2_Video_Embedded-players]]
 - Lab: Rate the media
 -  Rate the media (solution).
