@@ -9,9 +9,12 @@
 这些我肯定会注明出处, 写清楚来源, 以方便自己跟踪后续的资料.
 
 ## 课程列表
-
-- Coursera_Meta-Front-End-Developer
-- Coursera_Meta-Back-End-Developer-master
+- 1_* 加拿大高中课程
+- 2_* 加拿大中专课程
+- 3_* 大学课程
+- 4_* 自学课程
+  - Coursera_Meta-Front-End-Developer
+  - Coursera_Meta-Back-End-Developer-master
 
 ## 鸣谢
 
